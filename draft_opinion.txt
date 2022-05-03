@@ -1,0 +1,1040 @@
+SUPREME COURT OF THE UNITED STATES
+THOMAS E. DOBBS, STATE HEALTH OFFICER OF
+THE MISSISSIPPI DEPARTMENT
+ET AL., PETITIONERS v. JACKSON WOMEN’S
+HEALTH ORGANIZATION, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+JUSTICE ALITO delivered the opinion of the Court.
+Abortion presents a profound moral issue on which Amer- icans hold sharply conflicting views. Some believe fervently that a human person comes into being at conception and that abortion ends an innocent life. Others feel just as strongly that any regulation of abortion invades a woman’s right to control her own body and prevents women from achieving full equality. Still others in a third group think that abortion should be allowed under some but not all cir- cumstances, and those within this group hold a variety of views about the particular restrictions that should be im- posed.
+For the first 185 years after the adoption of the Constitu- tion, each State was permitted to address this issue in ac- cordance with the views of its citizens. Then, in 1973, this Court decided Roe v. Wade, 410 U. S. 113. Even though the Constitution makes no mention of abortion, the Court held that it confers a broad right to obtain one. It did not claim that American law or the common law had ever recognized
+OF HEALTH,
+
+ Opinion of the Court
+1 Roe, 410 U. S., at 163.
+2 J. Ely, The Wages of Crying Wolf: A Comment on Roe v. Wade, 82
+Yale L. J. 920, 926, 947 (1973) (Ely).
+3L, Tribe, Foreword: Toward A Model of Roles in the Due Process of
+Life and Law, 87 Harv. L. Rev. 1, 2 (1973) (Tribe).
+2 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+sucha right, and its survey of history ranged from the con- stitutionally irrelevant (e.g., its discussion of abortion in an- tiquity) to the plainly incorrect (¢.g., its assertion that abor- tion was probably never a crime under the common law). After cataloguing a wealth of other information having no bearing on the meaning of the Constitution, the opinion concluded with a numbered set of rules much like those that
+might be found in a statute enacted bya legislature.
+Under this scheme, each trimester of pregnancy was reg- ulated differently, but the most critical line was drawn at
+roughly the end of the second trimester, which, at the time, corresponded to the point at which a fetus was thought to achieve “viability,” i.e., the ability to survive outside the womb, Although the Court acknowledged that States had a legitimate interest in protecting “potential life,”! it found that this interest could not justify any restriction on previ- ability abortions. The Court did not explain the basis for this line, and even abortion supporters have found it hard to defend Roe’s reasoning. One prominent constitutional scholar wrote that he “would vote for a statute very much
+like the one the Court end[ed] up drafting” if he were “a legislator,” but his assessment of Roe was memorable and brutal: Roe was “not constitutional law” at all and gave al- most no sense of an obligation to try to be.””
+At the time of Roe, 30 States still prohibited abortion at all stages. In the years prior to that decision, about a third of the States had liberalized their laws, but Roe abruptly ended that political process. It imposed the same highly restrictive regime on the entire Nation, and it effectively struck down the abortion laws of every single State. As
+Justice Byron White aptly put it in his dissent, the decision
+
+ Cite as: __ U.S. ___ (20_.) 3 Opinion of the Court
+represented the “exercise of raw judicial power,” 410 U.S., at 222, and it sparked a national controversy that has em- bittered our political culture for a half-century.*
+Eventually, in Planned Parenthood of Southeastern Pa. v. Casey, 505 U. S. 833 (1992), the Court revisited Roe, but the members of the Court split three ways. Two Justices ex- pressed no desire to change Roe in any way.’ Four others
+wanted to overrule the decision in its entirety. And the three remaining Justices, who jointly signed the controlling opinion, took a third position.? Their opinion did not en- dorse Roe’s reasoning, and it even hinted that one or more of its authors might have “reservations” about whether the Constitution protects a right to abortion.’ But the opinion concluded that stare decisis, which calls for prior decisions to be followed in most instances, required adherence to what it called Roe’s “central holding’—that a State may not constitutionally protect fetal life before “viability’—even if
+that holding was wrong.? Anything less, the opinion claimed, would undermine respect for this Court and the rule of law.
+Paradoxically, the judgment in Casey did a fair amount of overruling. Several important abortion decisions were
++ See R. Ginsburg, Speaking in a Judicial Voice, 67 N. Y. U. L. Rev. 1185, 1208 (1992) (“Roe . .. halted a political process that was moving in a reform direction and thereby, I believed, prolonged divisiveness and
+deferred stable settlement of the issue.”).
+5 See 505 U. S., at 911 (Stevens, J., concurring in part and dissenting
+in part); id., at 922 Blackmun, J., concurring in part, concurring in the judgment in part, and dissenting in part).
+6 See 505 U.S., at 944 (Rehnquist, C. J., concurring in the judgment in part and dissenting in part); id., at 979 (Scalia, J., concurring in the
+judgment in part and dissenting in part).
+7 See 505 U.S., at 843 (plurality opinion of O'Connor, Kennedy, and
+Souter, JJ.).
+8 505 U.S., at 853.
+9 505 U. S., at 860 (plurality opinion).
+
+ Opinion of the Court
+4 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+overruled in toto, and Roeitself was overruled in part.!° Ca- sey threw out Roe’s trimester scheme and substituted a new rule of uncertain origin under which States were forbidden to adopt any regulation that imposed an “undue burden” on a woman’s right to have an abortion."! The decision pro- vided no clear guidance about the difference between a “due” and an “undue” burden. But the three Justices who authored the controlling opinion “call[ed] the contending sides of a national controversy to end their national divi- sion” by treating the Court’s decision as the final settlement
+of the question of the constitutional right to abortion.!
+As has become increasingly apparent in the intervening years, Casey did not achieve that goal. Americans continue to hold passionate and widely divergent views on abortion, and state legislatures have acted accordingly. Some have
+recently enacted laws allowing abortion, with few re- strictions, at all stages of pregnancy. Others have tightly restricted abortion beginning well before viability. And in this case, 26 States have expressly asked this Court to over- rule Roe and Casey and allow the States to regulate or pro- hibit pre-viability abortions.
+Before us now is one such state law. The State of Missis- sippi asks us to uphold the constitutionality of a law that generally prohibits an abortion after the fifteenth week of pregnancy—several weeks before the point at which a fetus is now regarded as “viable” outside the womb. In defending this law, the State’s primary argument is that we should reconsider and overrule Roe and Casey and once again allow each State to regulate abortion as its citizens wish. On the other side, respondents and the Solicitor General ask us to
+10 505 U.S., at 861, 870, 873 (overruling Akron v. Akron Center for Reproductive Health, Inc., 462 U.S. 416 (1983), and Thornburgh v. American College of Obsietricians and Gynecologists, 476 U.S. 747 (1986)).
+11505 U. S., at 874 (plurality opinion). 12 Casey, 505 U. S., at 567.
+
+ Opinion of the Court
+Cite as: ___ U. S.___ (20__) 5
+reaffirm Roe and Casey, and they contend that the Missis- sippi law cannot stand if we do so. Allowing Mississippi to prohibit abortions after 15 weeks of pregnancy, they argue, “would be no different than overruling Casey and Roe en- tirely.” Brief for Respondents 43. They contend that “no
+half-measures” are available and that we must either reaf- firm or overrule Roe and Casey. Id., at 50.
+We hold that Roe and Casey must be overruled. The Con- stitution makes no reference to abortion, and no such right is implicitly protected by any constitutional provision, in- cluding the one on which the defenders of Roe and Casey now chiefly rely—the Due Process Clause of the Fourteenth
+Amendment. That provision has been held to guarantee some rights that are not mentioned in the Constitution, but any such right must be “deeply rooted in this Nation’s his- tory and tradition” and “implicit in the concept of ordered liberty.” Washington v. Glucksberg, 521 U. S. 702, 721 (1997) (internal quotation marks omitted).
+The right to abortion does not fall within this category. Until the latter part of the 20th century, such a right was entirely unknown in American law. Indeed, when theFour- teenth Amendment was adopted, three quarters of the States made abortion a crime at all stages of pregnancy. The abortion right is also critically different from any other right that this Court has held to fall within theFourteenth
+Amendment’s protection of “liberty.” Roe’s defenders char- acterize the abortion right as similar to the rights recog- nized in past decisions involving matters such as intimate sexual relations, contraception, and marriage, but abortion is fundamentally different, as both Roe and Casey acknowl- edged, because it destroys what those decisions called “fetal life” and what the law now before us describes as an “un-
+born human being.”?
+Stare decisis, the doctrine on which Casey’s controlling
+18 Miss. Code Ann. §41-41-191(4)(b).
+
+ Opinion of the Court
+I
+6 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+opinion was based, does not compel unending adherence to Roe’s abuse of judicial authority. Roe was egregiously wrong from the start. Its reasoning was exceptionally weak, and the decision has had damaging consequences. And far from bringing about a national settlement of the abortion issue, Roe and Casey have enflamed debate and deepened division.
+It is time to heed the Constitution and return the issue of abortion to the people’s elected representatives. “The per- missibility of abortion, and the limitations, upon it, are to be resolved like most important questions in our democ- racy: by citizens trying to persuade one another and then
+voting.” Casey, 505 U. S., at 979 (Scalia, J., concurring in the judgment in part and dissenting in part). That is what the Constitution and the rule of law demand.
+The law at issue in this case, Mississippi's Gestational Age Act, see Miss. Code Ann. §41-41-191, contains this central provision: “Except in a medical emergency or in the case of a severe fetal abnormality, a person shall not inten- tionally or knowingly perform or induce an abortion of an unborn human being if the probable gestational age of the unborn human being has been determined to be greater than fifteen (15) weeks.”
+§4(b).4
+To support this Act, the legislature madea series of fac-
+tual findings. It began by noting that, at the time of enact- ment, only six countries besides the United States “per- mit[ted] nontherapeutic or elective abortion-on-demand after the twentieth week of gestation.”!5 §2(a). The legisla- ture then found that at five or six weeks’ gestational age an
+14 The Act defines “gestational age” to be “the age of an unborn human being as calculated from the first day of the last menstrual period of the pregnant woman.” §3(f).
+15 Those other six countries were Canada, China, the Netherlands, North Korea, Singapore, and Vietnam. See A. Baglini, Charlotte Lozier
+
+ Cite as: ___U. S.___ 20__) 7 Opinion of the Court
+“unborn human being’s heart begins beating;” at eight weeks the “unborn human being begins to move in the womb;” at nine weeks “all basic physiological functions are present;” at ten weeks “vital organs begin to function,” and “hjair, fingernails, and toenails begin to form;” at eleven weeks “an unborn human being’s diaphragm is developing,” and he or she “may move about freely in the womb;” and at twelve weeks the “unborn human being” has “taken on the human form in all relevant respects.” §2(b)G) (quoting Gonzales v. Carhart, 550 U. S. 124, 160 (2007)). It found
+that most abortions after fifteen weeks employ “dilation and evacuation procedures which involve the use of surgical instruments to crush and tear the unborn child,” and it con- cluded that the “intentional commitment of such acts for nontherapeutic or elective reasons is a barbaric practice, dangerous for the maternal patient, and demeaning to the medical profession.” §2(b)(ii).
+Respondents are an abortion clinic, Jackson Women’s Health Organization, and one of its doctors, On the day the Gestational Age Act was enacted, respondents filed suit in federal district court against various Mississippi officials, alleging that the Act violated this Court’s precedents estab- lishing a constitutional right to abortion. The District Court granted summary judgment in favor of respondents and permanently enjoined enforcement of the Act, reason- ing that “viability marks the earliest point at which the
+State’s interest in fetal life is constitutionally adequate to justify a legislative ban on nontherapeutic abortions” and
+Institute, Gestational Limits on Abortion in the United States Compared to International Norms, 6-7 (2014); Is the United States one of seven coun- tries that ‘allow elective abortions after 20 weeks of pregnancy?’, Wash. Post (Oct. 8, 2017) (stating that the claim made by the Mississippi Leg- islature and the Charlotte Lozier Institute was “backed by data”). A more recent compilation from the Center for Reproductive Rights indi- cates that Iceland and Guinea-Bissau are now also similarly permissive. See The World’s Abortion Laws, Center for Reproductive Rights (Feb. 23, 2021) (last accessed Jan. 16, 2022).
+
+ Ir
+8 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Opinion of the Court
+that fifteen weeks’ gestational age is “prior to viability.” 349 F. Supp. 3d. 536, 539-540 (SD Miss 2019) (internal quo- tation marks and citation omitted). The Fifth Circuit af- firmed. 945 F. 3d 265 (CA5 2019).
+We granted certiorari to resolve the question whether “all pre-viability prohibitions on elective abortions are uncon- stitutional.” Pet. for Cert. ati. Petitioners’ primary defense of the Mississippi Gestational Age Act is that Roe and Casey were wrongly decided and that “the Act is constitutional be- cause it satisfies rational-basis review.” Brief for Petition- ers 49. Respondents answer that allowing Mississippi to ban pre-viability abortions “would be no different than over- ruling Casey and Roe entirely.” Brief for Respondents 43.
+They tell us that “no half-measures” are available: we must either reaffirm or overrule Roe and Casey. Id., at 50.
+We begin by considering the critical question whether the Constitution, properly understood, confers a right to obtain an abortion. Skipping over that question, the controlling opinion in Casey reaffirmed Roe’s “central holding” based solely on the doctrine of stare decisis, but as we will explain,
+proper application of stare decisis required an assessment of the strength of the grounds on which Roe was based. See infra, at__-_.
+We therefore turn to the question that the Casey plurality did not consider, and we address that question in three steps. First, we explain the standard that our cases have used in determining whether the Fourteenth Amendment's reference to “liberty” protects a particular right. Second,
+we examine whether the right at issue in this case is rooted in our Nation’s history and tradition and whether it is an essential component of what we have described as “ordered liberty.” Finally, we consider whethera right to obtain an abortion is supported by other precedents.
+
+ Opinionof the Court A
+1
+Cite as: U.S.___ @0_) 9
+Constitutional analysis must begin with “the language of the instrument,” Gibbons v. Ogden, 9 Wheat. 1, 186-189 (1824), which offers a “fixed standard” for ascertaining what our founding document means, J. Story, Commen- taries on the Constitution §399 (1833). The Constitution makes no express reference to a right to obtain an abortion,
+and therefore those who claim that it protects such a right must show that the right is somehow implicit in the consti- tutional text.
+Roe, however, was remarkably loose in its treatment of the constitutional text. It held that the abortion right, which is not mentioned in the Constitution, is part of a right
+to privacy, which is also not mentioned. See 410 U.S., at 152-153. And that privacy right, Roe observed, had been found to spring from no fewer than five different constitu- tional provisions—the First, Fourth, Fifth, Ninth, and
+Fourteenth Amendments. Id., at 152.
+The Court’s discussion left open at least three ways in
+which some combination of these provisions could protect the abortion right. One possibility was that the right was “founded . . . in the Ninth Amendment's reservation of rights to the people.” Jd., at 153. Another was that the right was rooted in the First, Fourth, or Fifth Amendment, or in some combination of those provisions, and that this right had been “incorporated” into the Due ProcessClause of the Fourteenth Amendment just as many other Bill of Rights provisions had by then been incorporated. Ibid; see also McDonald v. Chicago, 561 U.S. 742, 763-766 (2010) (plurality opinion) (discussing incorporation). And a third
+path was that the First, Fourth, and FifthAmendments played no role and that the right was simply a component of the “liberty” protected by the Fourteenth Amendment's Due Process Clause. 410 U.S., at 153. Roe expressed the
+
+ Opinion of the Court
+10 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+16 The Court’s words were as follows: “This right of privacy, whether it be founded in the Fourteenth Amendment's concept of personal liberty and restrictions upon state action, as we feel itis, or, as the District Court determined, in the Ninth Amendment's reservation of rights to the peo- ple, is broad enough to encompass a woman's decision whether or not to terminate her pregnancy.” 410 U.S., at 153.
+17 See, e.g., Sessions v. Morales-Santana, 137 S. Ct. 1678, 1689 (2017).
+“feel[ing]” that the Fourteenth Amendment was the provi- sion that did the work, but its message seemed to be that the abortion right could be found somewhere in the Consti- tution and that specifying its exact location was not of par- amount importance.!° The Casey Court did not defend this unfocused analysis and instead grounded its decision solely on the theory that the right to obtain an abortion is part of the “liberty” protected by the Fourteenth Amendment's Due
+Process Clause.
+We discuss this theory in depth below, but before doing
+so, we briefly address one additional constitutional provi- sion that some of respondents’ amici have now offered as yet another potential home for the abortion right: the Four- teenth Amendment’s Equal Protection Clause. See Brief for the United States as Amicus Curiae 24; see also Brief of
+Equal Protection Constitutional Law Scholars as Amici Cu- riae. Neither Roe nor Casey saw fit to invoke this theory, and it is squarely foreclosed by our precedents, which es- tablish that a State’s regulation of abortion is not a sex- based classification and is thus not subject to the “height- ened scrutiny” that applies to such classifications.’ The regulation of a medical procedure that only one sex can un- dergo does not trigger heightened constitutional scrutiny unless the regulation is a “mere pretext[] designed to effect an invidious discrimination against members of one sex or the other.” Geduldig v. Aiello, 417 U. S. 484, 496 n. 20
+(1974). And, as the Court has stated, the “goal of prevent- ing abortion” does not constitute “invidiously discrimina- tory animus against women.” Bray v. AlexandriaWomen’s
+
+ Opinion of the Court
+2
+Cite as: ___U. S._ 20__) 1
+Health Clinic, 506 U. S. 263, 273-274 (1993) (internal quo- tation marks omitted). Accordingly, laws regulating or pro- hibiting abortion are not subject to heightened scrutiny. Rather, they are governed by the same standard of review as other health and safety measures.!*
+With this new theory addressed, we turn to Casey's bold assertion that the abortion right is an aspect of the “liberty” protected by the Due Process Clause of the Fourteenth
+Amendment, 505 U. S., at 846; Brief for Respondents 17; Brief for United States as Amicus Curiae 21-22.
+The underlying theory on which this argument rests— that the Fourteenth Amendment’s Due Process Clause pro- vides substantive, as well as procedural, protection for “lib- erty”—has long been controversial. But our decisions have held that the Due Process Clause protects two categories of substantive rights.
+The first consists of rights guaranteed by the first eight amendments. Those amendments originally applied only to the federal government, Barron ex rel. Tiernan v. Mayor of Baltimore, 7 Pet. 243, 247-251 (1833) (opinion of Marshall, C. J.), but this Court has held that the Due Process Clause of the Fourteenth Amendment “incorporates” the great ma-
+jority of those rights and thus makes them equally applica- ble to the States. See McDonald, 561 U.S., at 763-767 & nn. 12-13. The second category—which is the one in ques- tion here—comprises a select list of fundamental rights that are not mentioned anywhere in the Constitution.
+In deciding whether a right falls into either of these cat- egories, the Court has long asked. whether the right is “deeply rooted in [our] history and tradition” andwhether it is essential to our Nation’s “scheme of ordered liberty.”
+18 We discuss this standard in Part V of this opinion.
+
+ Opinion of the Court
+12 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Timbs v. Indiana, 586 U.S. ___ (2019) (slip op. at 3) (inter- nal quotation marks omitted); McDonald, 561 U. S., at 764; Glucksberg, 521 U.S., at 721 (1997).!9 And in conducting this inquiry, we have engaged in a careful analysis of the history of the right at issue.
+Justice Ginsburg’s opinion for the Court in Tims v. In- diana, supra, is a recent example. In concluding that the Eighth Amendment's protection against excessive fines is “fundamental to our scheme of ordered liberty” and “deeply rooted in this Nation’s history and tradition,” 568 U.S., at
+___ (slip op., at 7) (citation omitted), her opinion traced the right back to Magna Carta, Blackstone’s Commentaries, and 35 of the 37 state constitutions in effect at the ratifica- tion of the Fourteenth Amendment. Id., at ___ (slip op., at 3-7).
+A similar inquiry was undertaken in McDonald, supra, which held that the Fourteenth Amendment protects the right to keep and bear arms. The lead opinion surveyed the origins of the Second Amendment, the debates in Congress about the adoption of the Fourteenth Amendment, the state constitutions in effect when that Amendment was ratified (at least 22 of the 37 States protected the right to keep and bear arms), federal laws enacted during the same period, and other relevant historical evidence. 561 U.S., at 767— 777. Only then did the opinion conclude that “the Framers and ratifiers of the Fourteenth Amendment counted the
+right to keep and bear arms among those fundamental rights necessary to our system of ordered liberty.” 561
+18 See also, e.g., Duncan v. Louisiana, 391 U.S. 145, 148 (1968) (asking whether “a right is among those fundamental principles of liberty and justice which lie at the base of our civil and political institutions’); Palko Y. Connecticut, 302 U.S. 319, 327 (1937) (requiring “a principle of justice so rooted in the traditions and conscience of our people as to be ranked as fundamental” (quoting Snyder v. Massachusetts, 291 U.S. 97, 105 (1934).
+
+ Opinion of the Court
+Cite as: ___U. S.__ @0__) 13
+U.S., at 778; see also id., at 822-850 (THOMAS, J., concur- ring in part and concurring in the judgment) (surveying his- tory and reaching the same result under Fourteenth Amendment’s Privileges or Immunities Clause).
+Timbs and McDonald concerned the question whether the Fourteenth Amendment protects rights that are ex- pressly set out in the Bill of Rights, and it would be anom- alous if similar historical support were not required when a putative right is not mentioned anywhere in the Constitu- tion. Thus, in Glucksberg, which held that the Due Process Clause does not confer a right to assisted suicide, the Court surveyed more than 700 years of “Anglo-American common
+law tradition,” 521 U.S., at 710, and made clear that a fun- damental right must be “objectively, deeply rooted in this Nation’s history and tradition,” id., at 720-721.
+Historical inquiries of this nature are essential when- ever we are asked to recognize a new component of the “lib- erty” protected by the Due Process Clause because the term “liberty” alone provides little guidance. “Liberty” is a capa- cious term. As Lincoln once said: “We all declare for Lib- erty; but in using the same word we do not all mean the same thing.”2° In a well-known essay, Isaiah Berlin re- ported that “(h]istorians of ideas” had catalogued more than 200 different senses in which the terms had been used.”!
+In interpreting what is meant by the Fourteenth Amend- ment’s reference to “liberty,” we must guard against the natural human tendency to confuse what that Amendment protects with our own ardent views about the liberty that
+Americans should enjoy. That is why the Court has long been “reluctant” to recognize rights that are not mentioned in the Constitution. Collins v. Harker Heights, 503 U. S. 115, 125 (1992). “Substantive due process has at times been
+20 7 The Collected Works of Abraham Lincoln, Address at a Sanitary Fair, at 301 (April 18, 1864).
+21, Berlin, Four Essays on Liberty 121 (1969).
+
+ Opinion of the Court
+14 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+a treacherous field for this Court,” Moore v. East Cleveland, 431 U. S. 494, 503 (1977) (plurality opinion), and it has sometimes led the Court to usurp authority that the Con- stitution entrusts to the people’s elected representatives. See Regents of Univ. of Mich. v. Ewing, 474 U.S. 214, 225- 226 (1985). As the Court cautioned in Glucksberg, “[w]e
+must .. . exercise the utmost care whenever we are asked to break new ground in this field, lest the liberty protected by the Due Process Clause be subtly transformed into the policy preferences of the Members of this Court.” 521U.S., at 720 (internal citation and quotation marks omitted).
+On occasion, when the Court has ignored the “[a]ppropri- ate limits” imposed by “respect for the teachings of history,” Moore, 431 U.S., at 503, it has fallen into the freewheeling judicial policymaking that characterized discredited deci- sions such as Lochner v. New York, 198 U.S. 45, 25 (1905).
+The Court must not fall prey to such an unprincipled ap- proach. Instead, guided by the history and tradition that map the essential components of our Nation’s concept of or- dered liberty, we must ask what the Fourteenth Amend- ment means by the term “liberty.” When we engage in that inquiry in the present case, the clear answer is that the Fourteenth Amendment does not protect the right to an abortion.”
+22 That is true regardless of whether we look to the Amendment’s Due Process Clause or its Privileges or Immunities Clause. Some scholars and Justices have maintained that the Privileges or Immunities Clause is the provision of the Fourteenth Amendment that guarantees substan- tive rights. See, e.g., McDonald v. Chicago, 561 U. S. 742, 813-850 (2010) (THOMAS, J., concurring); Duncan v. Louisiana, 391 U. S. 145, 165-166 (1968) (Black, J., concurring); A. Amar, Bill of Rights: Creation and Re-
+construction 163-180 (1998) (Amax); J. Ely, Democracy and Distrust 22~ 30 (1980); 2 W. Crosskey, Politics and the Constitution in the History of the United States 1089-1095 (1953). But even on that view, such a right would need to be rooted in the Nation’s history and tradition. See Cor-
+field v. Coryell, 6 F. Cas. 546, 551-552 (No. 3,230) (CC ED Pa. 1825) (de- scribing unenumerated rights under the Privileges and Immunities
+
+ Opinion of the Court
+B
+1
+Until the latter part of the 20th century, there was no
+support in American law for a constitutional right to obtain an abortion. Zero. None. No state constitutional provision had recognized such a right. Until a few years before Roe was handed down, no federal or state court had recognized such a right. Nor had any scholarly treatise of which we are aware. And although law review articles are not reti- cent about advocating new rights, the earliest article pro- posing a constitutional right to abortion that has come to our attention was published only a few years before Roe.”
+Not only was there no support for such a constitutional right until shortly before Roe, but abortion had long been a crime in every single State. At common law, abortion was criminal in at least some stages of pregnancy and was re- garded as unlawful and could have very serious conse- quences at all stages. American law followed the common law until a wave of statutory restrictions in the 1800s ex- panded criminal liability for abortions. By the time of the adoption of the Fourteenth Amendment, three-quarters of the States had made abortion a crime at any stage of preg- nancy, and the remaining States would soon follow.
+Cite as: ___ U. S.__ 20__) 15
+Clause, U.S. Const. Art. IV, §2, as those “fundamental” rights “which have, at all time, been enjoyed by the citizens of the several states”); Amar 176 (relying on Corfield to interpret the Privileges or Immunities Clause); cf. McDonald, supra, at 819-820, 832, 854 (THOMAS, J., concur- ring in part and concurring in the judgment) (reserving the question whether the Privileges or Immunities Clause protects “any rights besides
+those enumerated in the Constitution”).
+23 See R. Lucas, Federal Constitutional Limitations on the Enforce-
+ment and Administration of State Abortion Statutes, 46 N. C. L. Rev. 730 (1968); see also D. Garrow, Liberty and Sexuality 334-335 (1994) (stat- ing that Mr. Lucas was “undeniably the first person to fully articulate on paper” the argument that “a woman’s right to choose abortion was afun- damental individual freedom protected by the U. S. Constitution’s guar- antee of personal liberty”).
+
+ Opinion of the Court
+16 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+24 The exact meaning of “quickening” is subject to some debate. Com- pare Brief for Amici Curiae Scholars of Jurisprudence John M. Finnis and Robert P. George in Support of Petitioners 12-14 & n.82. (‘a quick child” meant simply a “live” child, and under the era’s outdated knowledge of embryology, a fetus was thought to become “quick” at around the sixth week of pregnancy), with Brief for Amici Curiae Amer- ican Historical Association and Organization of American Historians Br. 6n, 2 (“quick” and “quickening” consistently meant “the woman’s percep- tion of fetal movement”). We need not wade into this debate. First, it suffices for present purposes to show that abortion was criminal by at least the 16th or 18th week of pregnancy. Second, as we will show, dur- ing the relevant period—i.e., the period surrounding the enactmentof the Fourteenth Amendment—the quickening distinction was abandoned
+as States criminalized abortion at all stages of pregnancy. See infra, at
+Roe either ignored or misstated this history, and Casey declined to reconsider Roe’s faulty historical analysis. It is therefore important to set the record straight.
+We begin with the common law, under which abortion was a crime at least after “quickening’—i.e., the first felt movement of the fetus in the womb, which usually occurs between the 16th and 18th week of pregnancy.**
+2
+The “eminent common-law authorities (Blackstone, Coke, Hale, and the like),” Kahler v. Kansas, 589 U.S. ; ___ (2020) (slip op., at 7), all describe abortion after quick- ening as criminal. Henry de Bracton’s 13th-century trea- tise explained that if a person has “struck a pregnant woman, or has given her poison, whereby he has caused an abortion, if the foetus be already formed and animated, and particularly if it be animated, he commits homicide.” H. Bracton, De Legibus et Consuetudinibus Angliae 279 (T. Twiss ed. 1879); see also 1 Fleta ch. 20, reprinted in 53 Sel- den Soc’y 60-61 (H.G. Richardson & G.O Sayles eds. 1953)
+i
+
+ (18th century treatise).
+Sir Edward Coke’s 17th-century treatise likewise as-
+serted that abortion of a quick child was “murder” if the “childe be born alive” and a “great misprision” if the “childe dieth in her body.” 3 Institutes of the Laws of England 50— 51 (1644). (“Misprision” referred to “some heynous offence under the degree of felony.” Id., at 189.) Two treatises by Sir Matthew Hale likewise described abortion of a quick child who died in the womb as a “great crime” and a “great misprision.” See M. Hale, Pleas of the Crown: Or, A Me- thodical Summary of the Principal Matters Relating to that Subject 53 (1678) (P. R. Glazebrook, ed., 1973); 1 M. Hale, History of Pleas of the Crown 433 (1736) (Hale). And writ- ing near the time of the adoption of our Constitution, Black- stone explained that abortion of a “quick” child was “by the ancient law homicide or manslaughter” (citing Bracton), and at least “a very heinous misdemeanor” (citing Coke).” 1 Blackstone, Commentaries on the Laws of England *129- *130 (7th ed. 1775) (Blackstone).
+English cases dating all the way back to the 13th century corroborate the treatises’ statements that abortion was a crime. See generally J. Dellapenna, Dispelling the Myths of Abortion History 126 & n. 16, 134-142, 188-194 & nn.84-86 (2005) (Dellapenna); J. Keown, Abortion, Doctors, and the Law 3-12 (1988) (Keown). In 1732, for example, Eleanor Beare was convicted of “destroying the Foetus in the Womb” of another woman and “there-by causing her to miscarry.”26 For that crime and another “misdemeanor,” Beare was sentenced to two days in the pillory and three years’ imprisonment.”’
+Cite as: __U.S._ (20_) 7 Opinion of the Court
+25 Even before Bracton’s time, English law imposed punishment for the killing of a fetus. See Leges Henrici Primi 222-223 (L. J. Downered., 1972) (imposing penalty for any abortion and treating a woman who aborted a “quick” child “as if she were a murderess’).
+26 2 Gentleman’s Magazine 931 (Aug, 1732). 27 Td., at 932.
+
+ 28 2 Gentleman’s Magazine 932
+Opinion of the Court
+18 DOBBS v. JACKSON WOMEN'S HEALTH ORGANIZATION
+Although a pre-quickening abortion was not itself consid- ered homicide, it does not follow that abortion was permis- sible at common law—much less that abortion wasa legal right. Cf. Washington v. Glucksberg, 521 U.S. 702, 718 (1997) (removal of “common law’s harsh sanctions did not represent an acceptance” of suicide). Quite to the contrary, in the 1732 case mentioned above, the judge said of the
+charge of abortion (with no mention of quickening) that he had “never met with a case so barbarous and unnatural.” Similarly, an indictment from 1602, which did not distin- guish between a pre-quickening and post-quickening abor- tion, described abortion as “pernicious” and “against the peace of our Lady the Queen, her crown and dignity.” Ke- own 7 (discussing R. v. Webb, Calendar of Assize Records, Surrey Indictments 512 (1980)).
+That the common law did not condone even pre-quicken- ing abortions is confirmed by what one might call a proto- felony-murder rule. Hale and Blackstone explained a way in which a pre-quickening abortion could rise to the level of a homicide. Hale wrote that if a physician gave a woman “with child” a “potion” to cause an abortion, and the woman died, it was “murder” because the potion was given “unlaw-
+fully to destroy her child within her.” 1 Hale 429-430 (em- phasis added). As Blackstone explained, to be “murder” a killing had to be done with “malice aforethought, either ex- press or implied.” 4 Blackstone 198, 199. In the case of an abortionist, Blackstone wrote, “the law will imply [malice]” for the same reason that it would imply malice if a person who intended to kill one person accidentally killed a differ- ent person:
+“[I]f one shoots at A and misses him, but kills B, this is murder; because of the previous felonious intent, which the law transfers from one to the other. The same is the case, where one lays poison for A; and B, against
+
+ Opinion of the Court
+Cite as: ___ U. S.____ (20__.) 19
+Notably, Blackstone, like Hale, did not state that this proto-felony-murder rule required that the woman be “with quick child’—only that she be “with child.” Ibid. And it is revealing that Hale and Blackstone treated abortionists dif- ferently from other physicians or surgeons who caused the death of a patient “without any intent of doing [the patient] any bodily hurt.” Hale 429; see 4 Blackstone 197. These other physicians—even if “unlicensed’—would not be “guilty of murder or manslaughter.” Hale 429. But a phy-
+sician performing an abortion would, precisely because his aim was an “unlawful” one.
+In sum, although common law authorities differed on the severity of punishment for abortions committed at different points in pregnancy, none endorsed the practice. Moreover, we are aware of no common law case or authority, and the parties have not pointed to any, that remotely suggests a
+positive right to procure an abortion at any stage of preg- nancy.
+ii
+In this country, the historical record is similar. The “most important early American edition of Blackstone's Commen- taries,” District of Columbia v. Heller, 554 U.S. 570, 594 (2008), reported Blackstone’s statement that abortion of a
+whom the prisoner had no malicious intent, takes it, and it kills him; this is likewise murder. So also, if one gives a woman with child a medicine to procure abor- tion, and it operates so violently as to kill the woman, this is murder in the person who gave it.” 4 Blackstone 200 (emphasis added).?°
+29 Other treatises restated the same rule. See 1 W. Russell, A Treatise on Crimes and Misdemeanors 539 (5th ed. 1845) (“So where a person gave medicine to a woman to procure an abortion, and where a person put skewers into the woman for the same purpose, by which in both cases the women were killed, these acts were clearly held to be murder.”); 1 E. H. East, A Treatise of the Pleas of the Crown 230 (1803) (similar).
+
+ (1851).
+Opinion of the Court
+20 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+quick child was at least “a heinous misdemeanor,” 1 St. George Tucker, Blackstone’s Commentaries 129-130 (1803) (Tucker's Blackstone), and that edition also included Black- stone’s discussion of the proto-felony-murder rule, 4 Tucker’s Blackstone 200-201. Manuals for justices of the peace printed in colonies in the 18th century typically re- stated the common law rule on abortion, and some manuals repeated Hale’s and Blackstone’s statements that anyone who prescribed medication “unlawfully to destroy the child” would be guilty of murder if the woman died. See, e.g., J. Parker, Conductor Generalis: Or the Office, Duty and Au- thority of Justices of the Peace 220 (1788); 2 R. Burn, Jus-
+tice of the Peace, and Parish Officer 221-222 (7th ed. 1762) (English manual stating the same).°°
+The few cases available from the early colonial period cor- roborate that abortion was a crime. See generally Del- lapenna 215-228 (collecting cases). In Maryland in 1652,
+30 For manuals restating one or both rules, see J. Davis, A Treatise on Criminal Law with an Exposition of the Office and Authority of Justices of the Peace in Virginia 96, 102-103, 339 (1838); Conductor Generalis: Or, the Office, Duty and Authority of Justices of the Peace 194-195 (1801) (printed in Philadelphia); Conductor Generali: Or, the Office, Duty and
+Authority of Justices of the Peace 194-195 (1794) (printed in Albany); Conductor Generalis: Or, the Office, Duty and Authority of Justices of the Peace 220 (1788) (printed in New York); J. Parker, Conductor Gen- eralis: Or, the Office, Duty and Authority of Justices of the Peace 198 (1749) (printed in New York); G. Webb, Office and Authority of a Justice of a Peace 232 (1736) (printed in Williamsburg); Conductor Generalis:
+Or, the Office, Duty and Authority of Justices of the Peace 161 (1722); (printed in Philadelphia see also J.A. Conley, Doing it by the Book: Jus- tice of the Peace Manuals and English Law in Eighteenth Century Amer- ica, 6 J. Legal Hist. 257, 265, 267 (1985) (noting that these manuals were the justices’ “primary source of legal reference” and of “practical value for a wider audience than the justices”). For cases stating the proto-fel- ony-murder rule, see, e.g., Commonwealth v. Parker, 50 Mass. (9 Met.) 263, 265 (1845); People v. Sessions, 58 Mich. 594, 595-596 (1886); State v. Moore, 25 Iowa 128, 131~132 (1868); Smith v. State, 33 Me. 48, 54-55
+
+ Cite as: ___ U.S. _ (20_) 21 Opinion of the Court
+for example, an indictment charged that a man “Mur- therously endeavoured to destroy or Murther the Child by him begotten in the Womb.” Proprietary v. Mitchell, 10 Md. Archives 183 (W.H. Browne, ed., 1891). And by the 19th century, courts frequently explained that the common law made abortion of a quick child a crime. See, e.g., Smith v. Gaffard, 31 Ala. 45, 51 (1857); Smith v. State, 33 Me. 48, 55 (1851); State v. Cooper, N. J. L. 52, 52-55 (1849); Common- wealth v. Parker, 50 Mass. 263, 264-268 (1845).
+iii
+The original ground for drawing a distinction between pre- and post-quickening abortions is not entirely clear, but some have attributed the rule to the difficulty of proving that a pre-quickening fetus was alive. At that time, there were no scientific methods for detecting pregnancy in its
+early stages,?! and thus, as one court put it in 1872: “(Ujntil the period of quickening there is no evidence of life; and whatever may be said of the feotus, the law has fixed upon this period of gestation as the time when the child is en- dowed with life” because “foetal movements are the first clearly marked and well defined evidences of life.” Evans v. People, 49 N.Y. 86, 90 (1872) (emphasis added); State v. Cooper, 22 N. J. L: 52, 56 (1849) (“In contemplation of law
+life commences at the moment of quickening, at the mo- ment when the embryo gives the first physical proof of life, no matter when it first received it.” (emphasis added)).
+The Solicitor General offers a different explanation of the basis for the quickening rule, namely, that before quicken- ing the common law did not regard a fetus “as having a ‘sep- arate and independent existence.” Brief for United States
+31 See E. Rigby, A System of Midwifery 73 (“Under all circumstances, the diagnosis of pregnancy must ever be difficult and obscure during the early months.”); see also id., at 74-80 (discussing rudimentary tech- niques for detecting early pregnancy); A.S. Taylor, A Manual of Medical Jurisprudence 418-421 (6th American ed., 1866) (same).
+
+ Opinion of the Court
+22 DOBBS v. JACKSON WOMEN'S HEALTH ORGANIZATION
+as Amicus Curiae 26 (quoting Commonwealth y. Parker, 50 Mass. 263, 266 (1848)). But the case on which the Solicitor General relies for this proposition also suggested that the criminal law’s quickening rule was out of step with the treatment of prenatal life in other areas of law, noting that “to many purposes, in reference to civil rights, an infant in ventre sa mere is regarded as a person in being.” Parker, 50 Mass., at 266 (citing 1 Blackstone 129); see also Evans v.
+People, 49 N. Y. 86, 89 (N. Y. 1872); Mills v. Commonwealth, 13 Pa. 631, 633 (1850); Morrow v. Scott, 7 Ga. 535, 537 (1849); Hall v. Hancock, 32 Mass. 255, 258 (1834); Thellus-
+son v. Woodford, 31 Eng. Rep. 117, 163 (1789).
+At any rate, the original ground for the quickening rule is of little importance for present purposes because the rule
+was abandoned in the 19th century. During that period, treatise writers and commentators criticized the quicken- ing distinction as “neither in accordance with the resultof. medical experience, nor with the principles of the common law.” 1 F. Wharton, The Criminal Law of the United States §1220, at 606 (4th rev. ed. 1857); see also J. B. Beck, Re- searches in Medicine and Medical Jurisprudence 26-28 (2d
+ed. 1835) (describing the quickening distinction as “absurd” and “injurious”).22 In 1803, the British Parliament made
+82 See Mitchell v. Commonwealth, 78 Ky. 204, 209-210 (1879) (acknowl- edging the common-law rule but arguing that “the law should punish abortions and miscarriages, willfully produced, at any time during the period of gestation”); Mills v. Commonwealth, 13 Pa. 631, 633 (1850) (the quickening rule “never ought to have been the law anywhere”); 1 J.P. Bishop, Commentaries on the Law of Statutory Crimes §744 (1873) (IE
+we look at the reason of the law, we shall prefer” a rule that “discard(s] this doctrine of the necessity of a quickening”); 5 Transactions of the Maine Medical Association 37-39 (1866); 12 Transactions of the Ameri- can Medical Association 75-77 (1859); W. Guy, Principles of Medical Fo- yensics 133-134 (1st American ed. 1845); 1 J. Chitty, A Practical Treatise on Medical Jurisprudence 438 (2d American ed., 1836); T.R. Beck & J.B. Beck, Elements of Medical Jurisprudence 293 (1823); T. Percival, The Works, Literary, Moral and Medical 430 (1807); see also Keown 38-39 (collecting English authorities).
+
+ pra), with Appendix A.
+Cite as: U.S. __ (20_) 23
+Opinion of the Court
+abortion a crime at all stages of pregnancy and authorized the imposition of severe punishment. See Lord Ellenbor- ough’s Act, 43 Geo. 3 c. 58. One scholar has suggested that Parliament’s decision “may partly have been attributable to the medical man’s concern that fetal life should be protected by the law at all stages of gestation.” Keown 22.
+In this country during the 19th century, the vast majority of the States enacted statutes criminalizing abortion at all stages of pregnancy. See Appendix A(listing state statu- tory provisions in chronological order).°* By 1868, when the Fourteenth Amendment was ratified, three-quarters of the States, 28 out of 37, had enacted statutes making abortion a crime even if it was performed before quickening.** See
+Appendix A. Of the nine States that had not yet criminal- ized abortion at all stages, all but one did so by 1910. Ibid. The trend in the territories that would become the last 13
+States was similar: all of them criminalized abortion at all stages of pregnancy between 1850 (the Kingdom of Hawaii) and 1919 (New Mexico). See Appendix B; see also Casey, 505 U. S., at 952 (Rehnquist, C. J., dissenting); Dellapenna 317-319. By the end of the 1950s, according to the Roe
+32 See generally Dellapenna 315-319 (cataloging the development of the law in the States); E. Quay, Justifiable Abortion—Medical and Legal Foundations, 49 Geo. L. J. 395, 435-437, 447-520 (1961) (Quay) (same); J. Witherspoon, Reexamining Roe: Nineteenth-Century Abortion Stat- utes and The Fourteenth Amendment, 17 St. Mary’s Law J. 29, 34-36 (1985) (Witherspoon) (same).
+4 Some scholars assert that only 27 States prohibited abortion at all stages. See, e.g. Dellapenna 315; Witherspoon 34-35 & n. 15. Those scholars appear to have overlooked Rhode Island, which criminalized abortion at all stages in 1861, See Act of Mar. 15, 1861, ch. 371, §1, Acts & Resolves R. I. 133 (criminalizing the attempt to “procure the miscar- riage” of “any pregnant woman” or “any woman supposed by such person to be pregnant,” without mention of quickening). The amicus brief for the American Historical Association asserts that only 26 States prohib- ited abortion at all stages, but that brief incorrectly excludes West Vir- ginia and Nebraska from its count. Compare Br. 27-28 (citing Quay, su-
+
+ Opinion of the Court
+24 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Court’s own count, statutes in all but four States and the District of Columbia prohibited abortion “however and whenever performed, unless done to save or preserve the life of the mother.” 410 U. S., at 139.35
+This overwhelming consensus endured until the day Roe was decided. At that time, also by the Roe Court’s own count, a substantial majority-——30 States—still prohibited abortion at all stages except to save the life of the mother. See Roe, 410 U. S., at 118 & n. 2 (listing States). And though Roe discerned a “trend toward liberalization” in about “one-third of the States,” those States still criminal-
+ized some abortions and regulated them more stringently than Roe would allow. See Roe, 410 U.S., at 140 & n.37; Tribe 2. In short, the “Court’s opinion in Roe itself convinc- ingly refutes the notion that the abortion liberty is deeply rooted in the history or tradition of our people.” Thorn- burgh, 476 U. S., at 793 (White, J., dissenting).
+iv
+The inescapable conclusion is that a right to abortion is not deeply rooted in the Nation’s history and traditions. On
+35 The statutes of three States (Massachusetts, New Jersey, and Penn- sylvania) prohibited abortions performed “unlawfully” or “without lawful justification.” Roe, 410 U.S., at 139. In Massachusetts, case law held
+that abortion was allowed when, according to the judgment of physicians in the relevant community, the procedure was necessary to preserve the woman’s life or her physical or emotional health. Commonwealth v. Wheeler, 53 N.E. 2d 4, 5 (Sup. J. Ct. 1944). In the other two States, how- ever, there is no clear support in case law for the proposition that abor- tion was lawful where the mother’s life was not at risk. See State v. Brandenberg, 58 A.2d 709 (N.J. 1948); Commonwealth v. Trombetta, 200 ‘A. 107 (Pa. Super. Ct. 1938).
+Statutes in the two remaining jurisdictions (the District of Columbia and Alabama) permitted “abortion to preserve the mother’s health.” Roe, 410 U.S., at 139. Case law in those jurisdictions does not clarify the breadth of these exceptions.
+the contrary, an unbroken tradition of prohibiting abortion on pain of criminal punishment persisted from the earliest
+
+ Cite as: ___U.S.___ @0_) 25 Opinion of the Court
+3
+days of the common law until 1973. The Court in Roe could have said of abortion exactly what Glucksberg said of as- sisted suicide: “Attitudes toward [abortion] have changed since Bracton, but our laws have consistently condemned, and continue to prohibit, [that practice].” Glucksberg, 521 U.S., at 719.
+Respondents and their amici have no persuasive answer to this historical evidence.
+Neither respondents nor the Solicitor General disputes the fact that by 1868 the vast majority of States criminal- ized abortion at all stages of pregnancy. See Brief for the Petitioners 12-13; see also Brief for American Historical
+Association and Organization of American Historians as Amicus Curiae 27-28 & nn. 14-15 (conceding that 26 out of 37 States prohibited abortion before quickening); Oral Arg. Tr. 74-75 (respondents’ counsel conceding the same). In- stead, respondents are forced to argue that it “does [not] matter that some States prohibited abortion at the time Roe was decided or when the Fourteenth Amendment was adopted.” Brief for Respondents 21. But that argument flies in the face of the standard we have applied in deter- mining whether an asserted right that is nowhere men- tioned in the Constitution is nevertheless protected by the Fourteenth Amendment.
+Not only are respondents and their amici unable to show that a constitutional right to abortion was established when the Fourteenth Amendment was adopted, but they have found no support for the existence of an abortion right that predates the latter part of the 20th century—no state con- stitutional provision, no statute, no judicial decision, no learned treatise. The earliest sources called to our atten- tion are a few district court and state court decisions de- cided shortly before Roe and a small number of law review
+
+ Opinion of the Court
+26 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+articles from the same time period.%¢
+A few of respondents’ amici muster historical arguments,
+but they are very weak. The Solicitor General repeats Roe's claim that it is “doubtful abortion was ever firmly estab- lished as a common-law crime even with respect to the de- struction of a quick fetus.” Brief for United States as Ami- cus Curiae 26 (quoting Roe, 410 U.S., at 136). But as we have seen, great common-law authorities like Bracton, Coke, Hale, and Blackstone all wrote that a post-quicken- ing abortion was a crime—and a serious one at that. More- over, Hale and Blackstone (and many other authorities fol-
+lowing them) asserted that even a pre-quickening abortion was “unlawful” and that, as a result, an abortionist was guilty of murder if the woman died from the attempt.
+Instead of following these authorities, Roe relied largely on two articles by a pro-abortion advocate who claimed that Coke had intentionally misstated the common law because of his strong anti-abortion views.37 These articles have been discredited, and it has come to light that even mem- bers of Jane Roe’s legal team did not regard them as serious
+36 See Roe, 410 U. S., at 154-155 (collecting cases decided between 1970 and 1973).; C. Means, Jr., The Phoenix of Abortional Freedom: Is a Pe- numbral or Ninth-Amendment Right About to Arise from the Nine- teenth-Century Legislative Ashes of a Fourteenth-Century Common- Law Liberty?, 17 N.Y.L-F. 335, 337-339 (1971) (Means II); C. Means, Jr., The Law of New York Concerning Abortion and the Status of the Foetus, 1664-1968: A Case of Cessation of Constitutionality, 14 N.Y.L.F. 411 (1968) (Means 1); R. Lucas, Federal Constitutional Limitations on the
+Enforcement and Administration of State Abortion Statutes, 46 N. C. L. Rev. 730 (1968).
+31 See Roe, 410 U. S., at 136 n. 6 (citing Means I], supra); id., at 132- 133 n. 21 (citing Means I, supra).
+38 For critiques of Means’s work, see, ¢.g., Dellapenna 143-152, 325- 331; Keown 3-12; J. Finnis, “Shameless Acts” in Colorado: Abuse of Scholarship in Constitutional Cases, 7 Academic Q. 10, 11-12 (1994); De- stro, Abortion and the Constitution: The Need for a Life-Protective
+Amendment, 63 Calif, L. Rev. 1250, 1267-1282 (1975); Byrn, An Ameri- can Tragedy: The Supreme Court on Abortion, 41 Fordham L. Rev. 807,
+
+ Opinion of the Court
+814-829 (1973).
+39 Garrow 500-501 & n. 41.
+40 In any event, Roe, Casey, and other related abortion decisions im-
+posed substantial restrictions on a State's capacity to regulate abortions performed after quickening. See, e.g., June Medical Services L. L. C. v. Russo, 591 U. S. __ (2020) (holding a law requiring doctors performing abortions to secure admitting privileges to be unconstitutional); Whole Woman’s Health v. Hellerstedt, 579 U. S, 582 (2016) (similar); Casey, 505 U.S., at 846 (declaring that prohibitions on “abortion before viability” are unconstitutional); id., at 887-899 (holding that a spousal notification provision was unconstitutional). In addition, Doe v. Bolton, 410 U.S. 179 (1973), has been interpreted by some to protect a broad right to obtain an abortion at any stage of pregnancy provided that a physician is willing to certify that it is needed due to a woman’s “emotional” needs or “famil- ial” concerns. Id., at 192. See, e.g., Women’s Medical Professional Corp. v. Voinovich, 130 F. 3d 187, 209 (CAG 1997), cert. den., 523 U. S. 1036 (1998); but see id., at 1839 (THomas, J., dissenting from denialof certio- rari).
+Cite as: U.S.___ @0_) 27
+scholarship. An internal memorandum characterized this author’s work as donning “the guise of impartial scholar- ship while advancing the proper ideological goals.”89 Con- tinued reliance on such scholarship is unsupportable.
+The Solicitor General next suggests that history supports an abortion right because the common law’s failure to crim- inalize abortion before quickening means that “at the Founding and for decades thereafter, women generally could terminate a pregnancy, at least in its early stages.” Id., at 26-27; see also Brief for Respondents 21. But the
+insistence on quickening was not universal, see Mills, 13 Pa,, at 633; State v. Slagle, 83 N. C. 630, 632 (N. C. 1880), and, regardless, the fact that many States in the late 18th and early 19th century did not criminalize pre-quickening abortions does not mean that anyone thought the States lacked the authority to do so. When legislatures began to exercise that authority as the century wore on, no one, as far as we are aware, argued that the laws they enacted vio- lated a fundamental right. That is not surprising since
+
+ Opinion of the Court
+28 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+common-law authorities had repeatedly condemned abor- tion and described it as an “unlawful” act without regard to whether it occurred before or after quickening. See supra,
+at .
+Another amicus brief relied upon by the respondents (see
+Brief for Respondents 21) tries to dismiss the significance of the state criminal statutes that were in effect when the Fourteenth Amendment was adopted by suggesting that they were enacted for illegitimate reasons. According to this account, which is based almost entirely on statements made by one prominent proponent, important motives for
+the laws were the fear that Catholic immigrants were hav- ing more babies than Protestants and that the availability of abortion was leading white Protestant women to “shirk[] their maternal duties.” Brief for Amici Curiae American Historical Association and Organization of American Histo- rians 20.
+Resort to this argument is a testament to the lack of any real historical support for the right that Roe and Casey rec- ognized. This Court has long disfavored arguments based on alleged legislative motives. See, e.g., City of Erie v. Pap’s A.M., 529 U. S. 277, 292 (2000) (plurality); Turner Broad- casting System, Inc. v. F.C.C., 512 U. S. 622, 652 (1994); United States v. O’Brien, 391 U. S. 367, 383 (1968); Arizona
+v. California, 283 U.S. 423, 455 (1931) (collecting cases). The Court has recognized that inquiries into legislative mo- tives “are a hazardous matter.” O’Brien, 391 U.S., at 383. Even when an argument about legislative motive is backed by statements made by legislators who voted for a law, we have been reluctant to attribute those motives to the legis- lative body as a whole. “What motivates one legislator to make a speech about a statute is not necessarily what mo- tivates scores of others to enact it.” Ibid.
+Here, the argument about legislative motive is not even based on statements by legislators, but on statements made by a few supporters of the new 19th century abortion laws,
+
+ Opinion of the Court
+Cite as: U.S. ____ (20_) 29
+and it is quite a leap to attribute these motives to all the legislators whose votes were responsible for the enactment of those laws. Recall that at the time of the adoption of the Fourteenth Amendment, over three quarters of the States had adopted statutes criminalizing abortion (usually at all stages of pregnancy), and that from the early 20th century until the day Roe was handed down, every single State had such a law on its books. Are we to believe that the hundreds of lawmakers whose votes were needed to enact these laws
+were motivated by hostility to Catholics and women?
+There is ample evidence that the passage of these laws
+was instead spurred by a sincere belief that abortion kills a human being. Many judicial decisions from the late 19th and early 20th centuries made that point. See, e.g., Nash v. Meyer, 54 Idaho 283, 301 (1934); State v. Aupsplund, 86 Ore. 121, 131-132 (1917); Trent v. State, 15 Ala. App. 485, 488 (1916); State v. Miller, 90 Kan. 230, 233 (1913); Staie v. Tippie, 89 Ohio St. 35, 39-40 (1913); State v. Gedicke, 43 N. J. L. 86, 90 (N. J. Sup. Ct. 1881); Dougherty v. People, 1 Colo. 514, 522-523 (1873); State v. Moore, 25 Iowa 128, 131— 132 (1868); Smith v. State, 33 Me. 48, 57 (1851); see also
+Memphis Center for Reproductive Health, 14 F.4th, at 446 &n. 11 (Thapar, J., concurring in the judgment in part and dissenting in part) (citing cases).
+One may disagree with this belief (and our decision is not based on any view about when a State should regard pre- natal life as having rights or legally cognizable interests), but even Roe and Casey did not question the good faith of abortion opponents. See, e.g., Casey, 505 U. S., at 850 (“Men and women of good conscience can disagree . . . about the profound moral and spiritual implications of terminat-
+ing a pregnancy even in its earliest stage.”). And we see no reason to discount the significance of the state laws in ques- tion based on these amici’s suggestions about legislative
+
+ motive.‘
+Opinion of the Court
+Cc 1
+Instead of seriously pressing the argument that the abor- tion right itself has deep roots, supporters of Roe and Casey contend that the abortion right is an integral part of a broader entrenched right. Roe termed this a right to pri- vacy, 410 U. S., at 154, and Casey described it as the free- dom to make “intimate and personal choices” that are “cen- tral to personal dignity and autonomy,” 505 U.S., at 851. Casey elaborated: “At the heart of liberty is the right to de- fine one’s own concept of existence, of meaning, of the uni- verse, and of the mystery of human life.” Id., at 851.
+The Court did not claim that this broadly framed right is absolute, and no such claim would be plausible. While in- dividuals are certainly free to think and to say what they wish about “existence,” “meaning,” the “universe,” and “the mystery of human life,” they are not always free to act in accordance with those thoughts. License to act on the basis of such beliefs may correspond to one of the many under- standings of “liberty,” but it is certainly not “ordered lib- erty.”
+30 DOBBS v. JACKSON WOMEN'S HEALTH ORGANIZATION
+41 Other amicus briefs present arguments about the motives of propo- nents of liberal access to abortion. They note that some such supporters have been motivated by a desire to suppress the size of the African Amer- ican population. See Brief for Amici Curiae African-American, Hispanic, Roman Catholic and Protestant Religious and Civil Rights Organization and Leaders Supporting Petitioners 14-21; see also Box v. Planned Parenthood of Indiana and Kentucky, 139 S. Ct. 1780, 1783-84 (2019) (THOMAS, J., dissenting from the denial of certiorari). And it is beyond dispute that Roe has had that demographic effect. A highly dispropor- tionate percentage of aborted fetuses are black. See, e.g., Center for Dis- ease Control, Abortion Surveillance—United States, 2019, 70 Surveil- lance Summaries, at 20, tbl. 6 (Nov. 26, 2021). For our part, we do not question the motives of either those who have supported and those who
+have opposed laws restricting abortions.
+
+ Cite as: ___U. 8.__ (20_) 31 Opinion of the Court
+Ordered liberty sets limits and defines the boundary be- tween competing interests. Roe and Casey each struck a particular balance between the interests of a woman who wants an abortion and the interests of what they termed “potential life.” Roe, 410 U. S., at 150; Casey, 505 U. S., at 852. But the people of the various States may evaluate
+those interests differently. In some States, voters may be- lieve that the abortion right should be more even more ex- tensive than the right that Roe and Casey recognized. Vot- ers in other States may wish to impose tight restrictions based on their belief that abortion destroys an “unborn hu- man being.” Miss, Code Ann. §41-41-191(4)(b). Our Na- tion’s historical understanding of ordered liberty does not prevent the people’s elected representatives from deciding how abortion should be regulated.
+Nor does the right to obtain an abortion have a sound ba- sis in precedent. Casey relied on cases involving the right to marry a person of a different race, Loving v. Virginia, 388 U.S. 1 (1967); the right to marry while in prison, Turner v. Safley, 482 U. S. 78 (1987); the right to obtain contracep- tives, Griswold v. Connecticut, 381 U. S. 479 (1965), Hisen-
+stadt v. Baird, 405 U. S. 438 (1972), Carey v. Population Services International, 431 U. S. 678 (1977); the right to re- side with relatives, Moore v. East Cleveland, 431 U. S. 494 (1977); the right to make decisions about the education of one’s children, Pierce v. Society of Sisters, 268 U. S. 510 (1925), Meyer v. Nebraska, 262 U. S. 390 (1928); the right not to be sterilized without consent, Skinner v. Oklahoma ex rel. Williamson, 316 U. S. 535 (1942); and the right in
+certain circumstances not to undergo involuntary surgery, forced administration of drugs, or other substantially simi- lar procedures, Winston v. Lee, 470 U. S. 753 (1985), Wash- ington v. Harper, 494 U. S. 210 (1990), Rochin v.California, 342 U. S. 165 (1952). Respondents and the Solicitor Gen- eral also rely on post-Casey decisions like Lawrence v.
+
+ Opinion of the Court
+2
+32 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+In drawing this critical distinction between the abortion right and other rights, it is not necessary to dispute Casey's claim (which we accept for the sake of argument) that “the specific practices of States at the time of the adoption of the Fourteenth Amendment” do not “mark([] the outer limits of the substantive sphere of liberty which the Fourteenth
+Texas, 589 U. S. 558 (2003) (right to engage in private, con- sensual sexual acts), and Obergefell v. Hodges, 576 U. S. 644 (2015) (right to marry a person of the same sex). See Brief for Respondents 18; Brief for United States as Amicus Curiae 23-24.
+These attempts to justify abortion through appeals to a broader right to autonomy and to define one’s “concept of existence” prove too much. Casey, 505 U. S., at 851. Those criteria, at a high level of generality, could license funda- mental rights to illicit drug use, prostitution, and the like. See Compassion in Dying v. Washington, 85 F.3d 1440, 1444 (CA9 1996) (O’Scannlain, J., dissenting from denial of rehearing en banc). None of these rights has any claim to being deeply rooted in history. Id., at 1440, 1445.
+What sharply distinguishes the abortion right from the rights recognized in the cases on which Roe and Casey rely is something that both those decisions acknowledged: Abor- tion destroys what those decisions call “potential life” and what the law at issue in this case regards as the life of an “unborn human being.” See Roe, 410 U. S., at 159 (abortion
+is “inherently different”); Casey, 505 U. S., at 852 (abortion is “a unique act”). None of the other decisions cited by Roe and Casey involved the critical moral question posed by abortion. They are therefore inapposite. They do not sup- port the right to obtain an abortion, and by the same token, our conclusion that the Constitution does not confer such a right does not undermine them in any way.
+
+ Opinion of the Court
+Cite as: ___ U.S. (20_) 33
+Amendment protects.” 505 U. S., at 848. Abortion is noth- ing new. It has been addressed by lawmakers for centuries, and the fundamental moral question that it poses is age- less.
+Defenders of Roe and Casey do not claim that any new scientific learning calls for a different answer to the under- lying moral question, but they do contend that changes in society require the recognition of a constitutional right to obtain an abortion. Without the availability of abortion, they maintain, people will be inhibited from exercising
+their freedom to choose the types of relationships they de- sire, and women will be unable to compete with men in the workplace and in other endeavors.
+Americans who believe that abortion should be restricted press countervailing arguments about modern develop- ments. They note that attitudes about the pregnancy of un- married women have changed drastically; that federal and state laws ban discrimination on the basis of pregnancy,” that leave for pregnancy and childbirth are now guaranteed by law in many cases,‘ that the costs of medical care asso-
+ciated with pregnancy are covered by insurance or govern- ment assistance;* that States have increasingly adopted
+42 See, e.g., Pregnancy Discrimination Act (1978) (codified at 42 U.S.C. §2000e(k) (federal law prohibiting pregnancy discrimination in employ- ment); U.S. Dep’t of Labor, Women’s Bureau, Employment Protections for Workers Who Are Pregnant or Nursing, https://www.dol.gov/agen- cies/wb/pregnant-nursing-employment-protections (showing that 46 States and the District of Columbia have employment protections against pregnancy discrimination).
+43 See, e.g., Family and Medical Leave Act of 1993 (codified at 29 U.S.C. §2612) (federal law guaranteeing employment leave for pregnancy and birth); U.S. Bureau of Labor Statistics, Access to paid and unpaid family leave in 2018, https://www.bls.gov/opub/ted/2019/access-to-paid-and-un- paid-family-leave-in-2018.htm (showing that 89 percent of civilianwork- ers had access to unpaid family leave in 2018).
+44 The Affordable Care Act requires non-grandfathered health plans in the individual and small group markets to cover certain essential health benefits, which includes maternity and newborn care. See 42 U.S.C.
+
+ Opinion of the Court
+34 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+“safe haven” laws, which generally allow women to drop off babies anonymously;* and that a woman who puts her new- born up for adoption today has little reason to fear that the baby will not find a suitable home.‘* They also claim that many people now have a new appreciation of fetal life and that when prospective parents who want to have a child view a sonogram, they typically have no doubt that what they see is their daughter or son.
+Both sides make important policy arguments, but sup- porters of Roe and Casey must show that this Court has the authority to weigh those arguments and decide how abor- tion may be regulated in the States. They have failed to make that showing, and we thus return the power to weigh
+§18022(b)(1)(D). The ACA also prohibits annual limits, see 42 U.S.C. §300gg-11, and limits annual cost-sharing obligations on such benefits, id. §18022(c). State Medicaid plans must provide coverage for preg- nancy-related services—including, but not limited to, prenatal care, de- livery, and postpartum care—as well as services for other conditions that might complicate the pregnancy. 42 C.F.R. §440.210(a)(2)(i)-Gi). State Medicaid plans are also prohibited from imposing deductions, cost-shar-
+ing, or similar charges for pregnancy-related services for pregnant women. 42 U.S.C. §§13960(a)(2)(B), 18960(b)(2)(B).
+45 Since Casey, all 50 States and the District of Columbia have enacted such laws. Children’s Bureau, HHS, Infant Safe Haven Laws 1-2 (2016), https://www.childwelfare.gow/pubPDFs/safehaven.pdf (noting thatsafe haven laws began in Texas in 1999).
+4 See, e.g., Centers for Disease Control, Adoption Experiences of Women and Men and Demand for Children to Adopt by Women 18-44 Years of Age in the United States 16 (Aug. 2008) (“[NJearly 1 million women were secking to adopt children in 2002 (..e., they were in demand for a child), whereas the domestic supply of infants relinquished at birth or within the first month of life and available to be adopted had become virtually nonexistent.”); Centers for Disease Control, National Center for Health Statistics, Adoption and nonbiological _ parenting, https://www.cde.gow/nchs/nsfg/key_statistics/a-keystate.htm#adoption (showing that approximately 3.1 million women between the ages of 18- 49 had ever “[t]aken steps to adopt a child” based on data collected from
+2015-2019).
+
+ Cite as: ___U.S.__ 20_) 35 Opinion of the Court
+Til
+those arguments to the people and their elected represent- atives.
+We next consider whether the doctrine of stare decisis counsels continued acceptance of Roe and Casey. Stare de- cisis plays an important role in our case law, and we have explained that it serves many valuable ends. It protects the interests of those who have taken action in reliance on a past decision. See Casey, 505 U. S., at 856 (plurality opin- ion); see also Payne v. Tennessee, 501 U. S. 808, 828 (1991). It “reduces incentives for challenging settled precedents, saving parties and courts the expense of endless relitiga- tion.” Kimble v. Marvel Entertainment, LLC, 576 U. S. 446,
+455 (2015). It fosters “evenhanded” decision making by re- quiring that like cases be decided in a like manner. Payne v. Tennessee, 501 U.S. 808, 827 (1991). It “contributes to the actual and perceived integrity of the judicial pro- cess.” Ibid. And it restrains judicial hubris and reminds us to respect the judgment of those who grappled with im- portant questions in the past. “Precedent is a way of accu- mulating and passing down the learning of past genera- tions, a font of established wisdom richer than what can be
+found in any single judge or panel of judges.” N. Gorsuch, A Republic If You Can Keep It 217 (2019).
+We have long recognized, however, that stare decisis is “not an inexorable command,” Pearson v. Callahan, 555 U.S. 223, 233 (2009) (internal quotation marks and citation omitted), and it “is at its weakest when we interpret the Constitution,” Agostini v. Felton, 521 U.S. 203, 235 (1997). It has been said that it is sometimes more important that an issue “be settled than that it be settled right.” Kimble, 576 U. S., at 455 (emphasis added) (quoting Burnet v. Coro- nado Oil & Gas Co., 285 U.S. 393, 406 (1932) Brandeis, J., dissenting)). But when it comes to the interpretation of the
+Constitution—the “great charter of our liberties,” which
+
+ Opinion of the Court
+36 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+was meant “to endure through a long lapse of ages,” Martin v. Hunter’s Lessee, 1 Wheat. 304, 326 (1816) (opinion of Story, J.)—we place a high value on having the matter “set- tled right.” In addition, when one of our constitutional de- cisions goes astray, the country is usually stuck with the bad decision unless we correct our own mistake. An erro- neous constitutional decision can be fixed by amending the Constitution, but our Constitution is notoriously hard to
+amend. See U.S. Const., art. V; Kimble, 576 U.S., at 456. Therefore, in appropriate circumstances we must be willing to reconsider and if necessary overrule constitutional deci- sions.
+Some of our most important constitutional decisions have overruled prior precedents. We mention three. In Brown vy. Board of Education, the Court repudiated the “separate but equal” doctrine, which had allowed States to maintain racially segregated schools and other facilities. 347 U.S. 483, 488 (1954). In so doing, the Court overruled the infa- mous decision in Plessy v. Ferguson, 163 U. S. 537 (1896), along with six other Supreme Court precedents that had applied the separate-but-equal rule. See Brown, 347 U.S, at 491.
+In West Coast Hotel Co. v. Parrish, 300 U.S. 879 (1937), the Court overruled Adkins v. Children’s Hospital of D. C., 261 U. S. 525 (1923), which had held that a law setting min- imum wages for women violated the “liberty” protected by the Fifth Amendment’s Due Process Clause. Id., at 545. West Coast Hotel signaled the demise of an entire line of
+important precedents that had protected an individual lib- erty right against state and federal health and welfare leg- islation. See Lochner v. New York, 198 U.S. 45 (1905) (hold- ing invalid a law setting maximum working hours); Coppage v. Kansas, 236 U.S. 1 (1915) (holding invalid a law banning contracts forbidding employees to join union); Jay Burns Baking Co. v. Bryan, 264 U.S. 504 (1924) (holding invalid laws fixing the weight of loaves of bread).
+
+ Cite as; ___ U.S. ____ (20_) 37 Opinion of the Court
+wrong.
+On many other occasions, this Court has overruled im-
+Finally, in West Virginia Bd. of Ed. v. Barnette, 319US. 624 (1943), after the lapse of only three years, the Court overruled Minersville School Dist. v. Gobitis, 310 U. S. 586 (1940), and held that public school students could not be compelled to salute the flag in violation of their sincere be- liefs. Barnette stands out because nothing had changed
+during the intervening period other than the Court’s be- lated recognition that its earlier decision had been seriously
+portant constitutional decisions. (We include a partial list in the footnote that follows.47) Without these decisions,
+47 See, e.g., Obergefell v. Hodges, supra (right to same-sex marriage) (overruling Baker v. Nelson, 409 U.S. 810 (1972)); Citizens United v. Fed- eral Election Comm’n, 558 U.S. 310 (2010) (right to engage in campaign- related speech) (overruling Austin v. Michigan Chamber of Commerce, 494 U. S. 652 (1990), and partially overruling McConnell v. Federal Elec- tion Comm'n, 540 U. S. 93 (2003); Montejo v. Louisiana, 556 U.S. 778 (2009)(Sixth Amendment right to counsel) (overruling Michigan v. Jack-
+son, 475 U. S. 625 (1986)); Crawford v. Washington, 541 US. 36 (2004)(Sixth Amendment right to confront witnesses) (overruling Ohio v. Roberts, 448 U. S. 56 (1980)); Lawrence v. Texas, 539 U.S. 558 (2003) (cight to engage in consensual, same-sex intimacy one’s home) (overrul- ing Bowers v. Hardwick, 478 U. S. 186 (1986)); Ring v. Arizona, 536 U.S. 584 (2002) (Sixth Amendment right toa jury trial in capital prosecutions) (overruling Walton v. Arizona, 497 U. S. 639 (1990)); Agostini v. Felton, 521 U.S. 203 (1997) (evaluating whether government aid violates the Es- tablishment Clause) (overruling Aguilar v. Felton, 473 U. 8. 402 (1985), and School Dist. of City of Grand Rapids v. Ball, 473 U. S. 373 (1985); Seminole Tribe of Fla. v. Florida, 517 U.S. 442 (1996) (lack of congres- sional power under the Indian Commerce Clause to abrogate states’
+Eleventh Amendment immunity) (overruling Pennsylvania v. Union Gas Co., 491 U. S. 1 (1989)); Payne v. Tennessee, 501 U.S. 808 (1991) (the Eighth Amendment does not erect a per se bar to the admission of victim impact evidence during the penalty phase of a capital trial) (overruling Booth v. Maryland, 482 U. S. 496 (1987), and South Carolina v. Gathers, 490 U. S. 805 (1989)); Batson v. Kentucky, 476 U.S. 79 (1986) (the Equal Protection Clause guarantees the defendant that the State will not ex- clude members of his race from the jury venire on account of race) (over- ruling Swain v. Alabama, 380 U. S. 202 (1965); Garcia v. San Antonio
+
+ Opinion of the Court
+38 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Metropolitan Transit Authority, 469 U.S. 528 (1985) (rejecting the prin- ciple that the Commerce Clause does not empower Congress to enforce requirements, such as minimum wage laws, against the States “in areas of traditional governmental functions”) (overruling National League of Cities v. Usery, 426 U. S. 833 (1976)); Illinois v. Gates, 462 U.S. 213 (1983) (the Fourth Amendment requiresa totality of the circumstances approach for determining whether an informants tip establishes proba- ble cause) (overruling Aguilar v. Texas, 378 U. S. 108 (1964) and Spinelli v. United States, 393 U. S. 410 (1969); United States v. Scott, 437 US. 82 (1978) (the Double Jeopardy Clause does not apply to Government appeals from orders granting defense motions to terminate a trial before
+verdict) (overruling United States v. Jenkins, 420 U. S. 358 (1975)); Craig v. Boren, 429 U.S. 190 (1976) (gender-based classifications are subject to intermediate scrutiny under the Equal Protection Clause) (overruling Goesaert v. Cleary, 335 U. S. 464 (1948); Taylor v. Louisiana, 419 U.S. 522 (1975) (jury system which operates to exclude women from jury ser- vice violates the defendant’s Sixth and Fourteenth Amendment right to an impartial jury) (overruling Hoyt v. Florida, 368 U. S. 57 (1961); Bran- denburg v. Ohio, 395 U.S. 444 (1969) (per curiam) (the mere advocacy of violence is protected under the First Amendment unless it is directed to incite or produce imminent lawless action) (overruling Whitney v. Cali-
+fornia, 274 U. S. 357 (1927); Katz v. United States, 389 U.S. 347 (1967) (Fourth Amendment “protects people, not places” and extends to what a person “seeks to preserve as private”) (overruling Olmstead v. United ‘States, 277 U. S. 438 (1928) and Goldman v. United States, 316 U. S. 129 (1942); Miranda v. Arizona, 384 U.S. 436 (1966) (procedural safeguards to protect the Fifth Amendment privilege against self-incrimination) (overruling Crooker v. California, 357 U. S. 433 (1958), and Cicenia v. La Gay, 357 U. S, 504 (1958)); Malloy v. Hogan, 378 U.S. 1 (1964) (the Fifth Amendment privilege against self-incrimination is also protected by the Fourteenth Amendment against abridgement by the States) (overruling Twining v. New Jersey, 211 U. S. 78 (1908) and Adamson v. California, 332 U. S. 46 (1947)); Wesberry v. Sanders, 376 U.S. 1 (1964) (congres-
+sional districts should be apportioned so that “as nearly as practicable one man’s vote in a congressional election is to be worth as much as an- other’s”) (overruling in effect Colegrove v. Green, 328 U. S. 549 (1946); Gideon v. Wainwright, 372 U.S. 335 (1963) (right to counsel for indigent defendant in a criminal prosecution in state court under the Sixth and Fourteenth Amendments) (overruling Betis v. Brady, 316 U. 8. 455 (1942)); Baker v. Carr, 369 U.S. 186 (1962) (federal courts have jurisdic- tion to consider constitutional challenges to state redistricting plans) (ef- fectively overruling in part Colegrove v. Green, 328 U. S. 549 (1946)); Mapp v. Ohio, 867 U.S. 643 (1961) (the exclusionary rule regarding the
+
+ Opinion of the Court
+A
+Cite as: ___U. S.___ @0_) 39
+American constitutional law as we know it would be unrec- ognizable, and this would be a different country,
+No Justice of this Court has ever argued that the Court should never overrule a constitutional decision, but overrul- ing a precedent is a serious matter. It is not a step that should be taken lightly. Our cases have attempted to pro- vide a framework for deciding when a precedent should be
+overruled, and they have identified factors that should be considered in making such a decision. Janus v. State, County, and Municipal Employees, 585 U.S. _, _ (2018) (slip op., at 34-35); Ramos v. Louisiana, 590 U.S. __ (2020) (KAVANAUGH, J., concurring in part) (slip op., at 7- 9).
+In this case, five factors weigh strongly in favor of over- ruling Roe and Casey: the nature of their error, the quality of their reasoning, the “workability” of the rules they im- posed on the country, their disruptive effect on other areas of the law, and the absence of concrete reliance.
+The nature of the Court’s error. An erroneous interpreta- tion of the Constitution is always important, but some are more damaging than others.
+The infamous decision in Plessy v. Ferguson, supra, was one such decision. It betrayed our commitment to “equality
+inadmissi y of evidence obtained in violation of the Fourth Amend- ment applies to the States) (overruling Wolf v. Colorado, 338 U. S. 25 (1949)); Smith v. Allwright, 321 U.S. 649 (1944) (racial restrictions on the right to vote in primary elections violates the Equal Protection Clause of the Fourteenth Amendment) (overruling Grovey v. Townsend, 295 U. S. 45 (1935)); United States v. Darby, 312 U.S. 100 (1941) (con- gressional power to regulate employment conditions under theCom- merce Clause) (overruling Hammer v. Dagenhart, 247 U. S. 251 (1918); Erie R. Co. v. Tompkins, 304 U.S. 64 (1938) (Congress does not have the power to declare substantive rules of common law; a federal court sitting in diversity jurisdiction must apply the substantive state law)(overruling
+Swift v. Tyson, 41 U.S. (16 Pet.) 1 (1842).
+
+ Opinion of the Court
+40 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+under law.” Id., at 562 (Harlan, J., dissenting). It was “egregiously wrong” on the day it was decided, see Ramos, supra (KAVANAUGH, J., concurring in part) (slip op., at 7), and as the Solicitor General agreed at oral argument, it should have been overruled at the earliest opportunity, see Oral Arg. Tr. 92:20-93:17.
+Roe was also egregiously wrong and deeply damaging. For reasons already explained, Roe’s constitutional analysis was far outside the bounds of any reasonable interpretation of the various constitutional provisions to which it vaguely pointed.
+Roe was ona collision course with the Constitution from the day it was decided, and Casey perpetuated its errors, and the errors do not concern some arcane corner of the law of little importance to the American people. Rather, wield- ing nothing but “raw judicial power,” Roe, 410 U.S., at 222 (White, J., dissenting), the Court usurped the power to ad- dress a question of profound moral and social importance that the Constitution unequivocally leaves for the people. Casey described itself as calling both sides of the national
+controversy to resolve their debate, but in doing so, Casey necessarily declared a winning side. Those on the losing side—those who sought to advance the state’s interest in fetal life-——could no longer seek to persuade their elected representatives to adopt policies consistent with their views. The Court short-circuited the democratic process by closing it to the large number of Americans who dissented in any respect from Roe. “Roe fanned into life an issue that has inflamed our national politics in general, and has ob- scured with its smoke the selection of Justices to this Court
+in particular, ever since.” Casey, 505 U.S., at 995-996 (Scalia, J., concurring in part and dissenting in part). To- gether, Roe and Casey represent an error that cannot be al- lowed to stand.
+As the Court’s landmark decision in West Coast Hotel il- lustrates, the Court has previously overruled decisions that
+
+ Cite as; ___ U. S.____ (20_) 41 Opinion of the Court
+B
+wrongly removed an issue from the people and the demo- cratic process. As Justice White later explained, “decisions that find in the Constitution principles or values that can- not fairly be read into that document usurp the people’s au- thority, for such decisions represent choices that the people have never made and that they cannot disavow through cor- rective legislation. For this reason, it is essential that this Court maintain the power to restore authority to its proper possessors by correcting constitutional decisions that, on re- consideration, are found to be mistaken.” Thornburgh, 476 U.S., at 787 (White, J., dissenting).
+The quality of the reasoning. Under our precedents, the quality of the reasoning in a prior case has an important bearing on whether it should be reconsidered. See Janus v. State, County, and Municipal Employees, 585 U.S., at _ (slip op., at 38); Ramos, 590 U.S., at __ (KAVANAUGH, J., concurring) (slip op., at 7-8). In part IJ of this opinion, we explained why Roe was incorrectly decided, but that deci- sion was more than just wrong. It stood on exceptionally weak grounds.
+Roe found that the Constitution implicitly conferred a right to obtain an abortion, but it failed to ground its deci- sion in text, history, or precedent. It relied on an erroneous historical narrative; it devoted great attention to and pre- sumably relied on matters that have no bearing on the meaning of the Constitution; it disregarded the fundamen- tal difference between the precedents on which it relied and the question before the Court; it concocted an elaborate set
+of rules, with different restrictions for each trimester of pregnancy, but it did not explain how this veritable code could be teased out of anything in the Constitution, the his- tory of abortion laws, prior precedent, or any other cited source; and its most important rule (that States cannot pro- tect fetal life prior to “viability”) was never raised by any
+
+ Opinion of the Court
+1
+i
+The weaknesses in Roe’s reasoning are well-known. Without any grounding in the constitutional text, history, or precedent, it imposed on the entire country a detailed set of rules much like those that one might expect to find in a statute or regulation. See Roe, 410 U. S., at 163-164. Di- viding pregnancy into three trimesters, the Court imposed special rules for each. During the first trimester, the Court announced, “the abortion decision and its effectuation must be left to the medical judgment of the pregnant woman’s attending physician.” Jd., at 164. After that point, a State’s interest in regulating abortion for the sake of a woman’s health became compelling, and accordingly, a State could “regulate the abortion procedure in ways that are reasona- bly related to maternal health.” Ibid. Finally, “in the stage subsequent to viability,” which in 1973 roughlycoincided with the beginning of the third trimester, the State’s inter- est in “the potentiality of human life” became compelling, and therefore a State could “regulate, and even proscribe, abortion except where it is necessary, in appropriate medi- cal judgment, for the preservation of the life or health of the
+42 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+party and has never been plausibly explained. Roe’s rea- soning quickly drew scathing scholarly criticism, even from supporters of broad access to abortion.
+The Casey plurality, while reaffirming Roe’s central hold- ing, pointedly refrained from endorsing most of its reason- ing. It revised the textual basis for the abortion right, si- lently abandoned Roe’s erroneous historical narrative, and
+jettisoned the trimester framework. But it replaced that scheme with an arbitrary “undue burden” test and relied on an exceptional version of stare decisis that, as explained be- low, this Court had never before applied and has never in- voked since.
+
+ mother.” Ibid.
+This elaborate scheme was the Court’s own brainchild.
+Neither party advocated the trimester framework; nor did either party or any amicus argue that “viability” should mark the point at which the scope of the abortion right and a State’s regulatory authority should be substantially transformed, See Brief for Appellant in No. 70-18; Brief for Appellee in No. 70-18; see also C. Forsythe, Abuse of Dis- cretion: The Inside Story of Roe v. Wade 127, 141 (2012).
+ii
+Not only did this scheme resemble the work ofa legisla- ture, but the Court made little effort to explain how these rules could be deduced from any of the sources on which constitutional decisions are usually based. We have al- ready discussed Roe’s treatment of constitutional text, and the opinion failed to show that history, precedent, or any other cited source supported its scheme.
+Roe featured a lengthy survey of history, but much of its discussion was irrelevant, and the Court made no effort to explain why it was included. For example, multiple para- graphs were devoted to an account of the views and prac- tices of ancient civilizations where infanticide was widely accepted See Roe, 410 U.S., at 130-132(discussing ancient Greek and Roman practices).*8 When it came to the most important historical fact—how the States regulated abor- tion when the Fourteenth Amendment was adopted—the Court said almost nothing. It allowed that States had tight-
+Cite as: ___ U.S. __ (20_) 43 Opinion of the Court
+48 See, e.g., C. Patterson, “Not Worth the Rearing”: The Causes of In- fant Exposure in Ancient Greece, 115 Transactions Am. Philosophical ‘Ass'n 103, 111-123 (1985); A. Cameron, The Exposure of Children and Greek Ethics, 46 Classical Rev. 105-108 (1932); H. Bennett, The Expo- sure of Infants in Ancient Rome, 18 Classical J. 341-351 (1923); W. V. Harris, Child-Exposure in the Roman Empire, 84 J. Roman Studies 1 (1994).
+
+ Opinion of the Court
+44 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+ened their abortion laws “in the middle and late 19th cen- tury,” id., at 139, but it implied that these laws might have been enacted, not to protect fetal life, but to further “a Vic- torian social concern” about “illicit sexual conduct,” id., at 148.
+Roe’s failure even to note the overwhelming consensus of state laws in effect in 1868 is striking, and what it said about the common law was simply wrong. Relying on two discredited articles by an abortion advocate, the Court er- roneously suggested—contrary to Bracton, Coke, Hale,
+Blackstone, and a wealth of other authority—that the com- mon law had probably never really treated post-quickening abortion as a crime. See id., at 136 (“[I]t now appears] doubtful that abortion was ever firmly established as a com- mon-law crime even with respect to the destruction of a quick fetus.”). This erroneous understanding appears to have played an important part in the Court’s thinking be- cause the opinion cited “the lenity of the common law” as one of the four factors that informed its decision. Id., at 165.
+After surveying history, the opinion spent many para- graphs conducting the sort of fact-finding that might be un- dertaken by a legislative committee. This included a lengthy account of the “position of the American Medical Association” and “[t]he position of the American Public
+Health Association,” as well as the vote by the American Bar Association’s House of Delegates in February 1972 on proposed abortion legislation. Id., at 141, 143, 146. Also noted were a British judicial decision handed down in 1939 and a new British abortion law enacted in 1967. Id., at 137— 138. The Court did not explain why these sources shed light on the meaning of the Constitution, and not one of them adopted or advocated anything like the scheme that Roe im-
+posed on the country.
+Finally, after all this, the Court turned to precedent. Cit-
+ing a broad array of cases, the Court found support for a
+
+ Cite as: U.S.____ (20_) 45
+Opinion of the Court
+constitutional “right of personal privacy,” id., at 152, but it conflated two very different meanings of the term: the right to shield information from disclosure and the right to make and implement important personal decisions without gov- ernmental interference. See Whalen v. Roe, 429 U. S. 589, 599-600 (1977). Only the cases involving this second sense of the term could have any possible relevance to the abor- tion issue, and some of the cases in that category involved personal decisions that were obviously very, very far afield.
+See Pierce v. Society of Sisters, 268 U. S. 510 (1925) (right to send children to religious school); Meyer v. Nebraska, 262 U. S. 390 (1937) (right to have children receive German lan- guage instruction).
+What remained was a handful of cases having something to do with marriage, Loving v. Virginia, 388 U. S. 1 (1967) (right to marry a person of a different race), or procreation, Skinner v. Oklahoma, 316 U. S. 535 (1942) (right not to be sterilized); Griswold v. Connecticut, 381 U.S. 479 (1965) (right of married persons to obtain contraceptives); Hisen- stadt v. Baird, 405 U.S. 438 (1972) (same, for unmarried persons). But none of these decisions involved what is dis- tinctive about abortion: its effect on what Roe termed “po-
+tential life.”
+When the Court summarized the basis for the scheme it
+imposed on the country, it asserted that its rules were “con- sistent with” the following: (1) “the relative weights of the respective interests involved,” (2) “the lessons and exam- ples of medical and legal history,” (3) the lenity of the com- mon law,” and (4) “the demands of the profound problems of the present day.” Jd., at 165. Put aside the second and third factors, which were based on the Court's flawed ac- count of history, and what remains are precisely the sort of considerations that legislative bodies often take into ac-
+count when they draw lines that accommodate competing interests. The scheme Roe produced looked like legislation, and the Court provided the sort of explanation that might
+
+ Opinion of the Court be expected fromalegislative body.
+46 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+What Roe did not provide was any cogent justification for the lines it drew. Why, for example, does a State have no authority to regulate first trimester abortions for the pur- pose of protecting a woman’s health? The Court’s only ex- planation was that mortality rates for abortion at that stage
+were lower than the mortality rates for childbirth. Roe, 410 U.S., at 163. But the Court did not explain why mortality rates were the only factor that a State could legitimately consider. Many health and safety regulations aim to avoid adverse health consequences short of death. And the Court did not explain why it departed from the normal rule that courts defer to the judgments of legislatures “in areas
+fraught with medical and scientific uncertainties.” Mar- shall v. United States, 414 U. S. 417, 427 (1974).
+An even more glaring deficiency was Roe’s failure to jus- tify the critical distinction it drew between pre- and post- viability abortions. Here is the Court's entire explanation:
+As Professor Laurence Tribe has written, “[c]learly, this mistakes ‘a definition for a syllogism.” Tribe 4 (quoting Ely 924). The definition of a “viable” fetus is one that is capable of surviving outside the womb, but why is this the point at which the State’s interest becomes compelling? If, as Roe
+held, a State’s interest in protecting prenatal life is compel- ling “after viability,” 410 U. S., at 163, why isn’t that inter- est “equally compelling before viability”? Webster v. Repro- ductive Health Servs., 492 U.S. 490, 519 (1989) (plurality) (quoting Thornburgh v. American College ofObstetricians
+With respect to the State’s important and legitimate interest in potential life, the “compelling” point is at vi- ability. This is so because the fetus then presumably has the capability of meaningful life outside the womb. Roe, 410 U.S., at 163.
+
+ Cite as: ___U.S._ (20_) a7 Opinion of the Court
+and Gynecologists, 476 U.S. 747, 795 (1986) (White, J., dis- senting). Roe did not say, and no explanation is apparent. This arbitrary line has not found much support among
+philosophers and ethicists who have attempted to justify a right to abortion. Some have argued that a fetus should not be entitled to legal protection until it acquires the charac- teristics that they regard as defining what it means to be a “person.” Among the characteristics that have been offered as essential attributes of “personhood” are sentience, self- awareness, the ability to reason, or some combination thereof.2 By this logic, it would be an open question whether even born individuals, including young children or
+those afflicted with certain developmental or medical con- ditions, merit protection as “persons.” But even if one takes the view that “personhood” begins whena certain attribute or combination of attributes is acquired, it is very hard to see why viability should mark the point where “personhood” begins.
+49 See, e.g., P. Singer, Rethinking Life & Death 218 (1994) defining a person as “a being with awareness of her or his own existence over time, and the capacity to have wants and plans for the future”); B. Steinbock, Life Before Birth: The Moral and Legal Status of Embryos and Fetuses 9—-13 (1992) (arguing that “the possession of interests is both necessary and sufficient for moral status” and that the “capacity for conscious awareness is a necessary condition for the possession of interests”); M.
+A. Warren, On the Moral and Legal Status of Abortion, 57 The Monist 5 (No. 4, 1973) (arguing that, to qualify as a person, a being must have at least one of five traits that are “central to the concept of personhood”: (1) “consciousness (of objects and events external and/or internal to the be- ing), and in particular the capacity to feel pain”; (2) “reasoning (the de- veloped capacity to solve new and relatively complex problems); (3) “self- motivated activity (activity which is relatively independent of either ge- netic or direct external control)”; (4) “the capacity to communicate, by whatever means, messages of an indefinite variety of types”; and (5) “the
+presence of self-concepts, and self-awareness, either individual or racial, or both”); M. Tooley, Abortion & Infanticide, 2 Philosophy & Public Af- fairs 37, 49 (Autumn 1972) (arguing that “having a right to life presup- poses that one is capable of desiring to continue existing as a subject of experiences and other mental states”).
+
+ Opinion of the Court
+48 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+The most obvious problem with any such argument is that viability is heavily dependent on factors that have nothing to do with the characteristics of a fetus. One is the state of neonatal care at a particular point in time. Due to the development of new equipment and improved practices, the viability line has changed over the years. In the 19th
+century, a fetus may not have been viable until 32 or 33 weeks after conception or even later.50 When Roe was de- cided, viability was gauged at roughly 28 weeks. See Roe, 410 U. S., at 160. Today, respondents draw the line at 23 or 24 weeks. Brief of Respondents at 8. So, according to Roe’s logic, States now have a compelling interest in pro- tecting a fetus with a gestational age of, say, 26 weeks, but in 1973 States did not have an interest in protecting an identical fetus. How can that be?
+Viability also depends on the “quality of the available medical facilities,” Colautti v. Franklin, 439 U. S. 379, 396 (1979). Thus, a 24-week-old fetus may be viable if a woman gives birth in a city with hospitals that provide advanced care for very premature babies, but if the woman travels to a remote area far from any such hospital, the fetus may no
+longer be viable. On what ground could the constitutional status of a fetus depend on the pregnant woman’s location?
+80 See W. T. Lusk, Science and the Art of Midwifery 74-75 (1882) (ex- plaining that “{w]ith care, the life of a child born within [the eighth month] of pregnancy may be preserved”); id. 396 (“Where the choice lies with the physician, the provocation of labor is usually deferred until the thirty-third or thirty-fourth week); J. Beck, Researches in Medicine and Medical Jurisprudence 68 (2d ed., 1835) (“Although children born before the completion of the seventh month have occasionally survived, and been reared, yet in the medico-legal point of view, no child ought to be considered as capable of sustaining an independent existence until the seventh month has been fully completed.”); see also J. P. Baker, The In- cubator and the Medical Discovery of the Premature Infant, J. Perinatol- ogy 322 (2000) (explaining that, in the 19th century, infants born at 7 to 8 months’ gestation were unlikely to survive beyond “the first days of
+life”).
+
+ Cite as: U.S.___ (20_) 49 Opinion of the Court
+iv
+And if viability is meant to mark a line having universal moral significance, can it be that a fetus that is viable in a big city in the United States has a privileged moral status not enjoyed by an identical fetus in a remote area of a poor country?
+In addition, as the Court once explained, viability is not really a hard-and-fast line. Colautti, 439 U. S., at 396. A physician determining a particular fetus’s odds of surviving outside the womb must consider “a number of variables,” including “gestational age,” “fetal weight,” a woman’s “gen- eral health and nutrition,” the “quality of the available medical facilities,” and other factors. Id., at 395-396. It is
+thus “only with difficulty” that a physician can estimate the “probability” of a particular fetus’s survival. Id., at 396. And even if each fetus’s probability of survival could be as- certained with certainty, settling on a “probabilit[y] of sur- vival” that should count as “viability” is another matter. Id., at 396. Is a fetus viable with a 10 percent chance of survival? 25 percent? 50 percent? Can such a judgment be made by a State? And can a State specify a gestational age limit that applies in all cases? Or must these difficult ques- tions be left entirely to the individual “attending physician. on the particular facts of the case before him”? Id., at 388.
+The viability line, which Casey termed Roe’s central rule, makes no sense, and it is telling that other countries almost uniformly eschew sucha line.5! The Court thus asserted raw judicial power to impose, as a matter of constitutional
+law, a uniform viability rule that allowed the States less freedom to regulate abortion than the majority of western democracies enjoy.
+51 According to the Center for Reproductive Rights, only the United States and the Netherlands use viability as a gestational imit on the availability of abortion on-request. See The World’s Abortion Laws, Cen- ter for Reproductive Rights (Feb. 23, 2021) (last accessed Jan. 21, 2022).
+
+ Opinion of the Court
+50 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+All in all, Roe’s reasoning was exceedingly weak, and ac- ademic commentators, including those who agreed with the decision as a matter of policy, were unsparing in their crit- icism. John Hart Ely famously wrote that Roe was “not con- stitutional law and g[ave] almost no sense of an obligation to try to be.” Ely 947. Archibald Cox, who served as Solic-
+itor General under President Kennedy, commented that Roe “read|s] like a set of hospital rules and regulations’ that “{nJeither historian, layman, nor lawyer will be per- suaded... are part of... the Constitution.” Archibald Cox, The Role of the Supreme Court in American Government 113-114 (1976). Laurence Tribe wrote that “even if there is a need to divide pregnancy into several segments with lines that clearly identify the limits of governmental power, ‘interest-balancing’ of the form the Court pursues fails to
+justify any of the lines actually drawn.” Tribe 5. Mark Tushnet termed Roe a “totally unreasoned judicial opinion.” M. Tushnet, Red, White, and Blue: A Critical Analysis of Constitutional Law 54 (1988). See also P. Bobbitt, Consti- tutional Fate 157 (1982); A. Amar, Foreword: The Docu- ment and the Doctrine, 114 Harv. L. Rev. 26, 110 (2000).
+Despite Roe’s weaknesses, its reach was steadily ex- tended in the years that followed. The Court struck down laws requiring that second-trimester abortions be per- formed only in hospitals, Akron v. Akron Center for Repro- ductive Health, Inc., 462 U. S. 416, 433-439 (1983); that mi- nors obtain parental consent, Planned Parenthood of Central Mo. v. Danforth, 428 U.S. 52, 74 (1976); that
+women give written consent after being informed of the sta- tus of the developing prenatal life and the risks of abortion, Akron, 462 U. S., at 442-445; that women wait twenty-four hours for an abortion, id., at 449-451; that a physician de- termine viability in a particular manner, Colautti, 439 U.S., at 390-397; that a physician performing a post-via- bility abortion use the technique most likely to preserve the life of the fetus, id., at 397-401; and that fetal remains be
+
+ Cite as: ___U. S.__ (20_) 51 Opinion of the Court
+2
+treated in a humane and sanitary manner, Akron, 462 U.S., at 451-452.
+Justice White complained that the Court was engaging in “unrestrained imposition of its own extraconstitutional value preferences.” Thornburgh, 476 U. S., at 794 (White, J., dissenting). And the United States as amicus curiae asked the Court to overrule Roe five times in the decade before Planned Parenthood v. Casey, see 505 U. S., at 844 (plurality opinion), and then asked the Court to overrule it
+once more in Casey itself.
+When Casey revisited Roe almost 20 years later, very lit- tle of Roe’s reasoning was defended or preserved. The Court abandoned any reliance on a privacy right and instead grounded the abortion right entirely on the Fourteenth Amendment’s Due Process Clause. 505 U.S., at 846, The Court did not reaffirm Roe’s erroneous account of abortion history. In fact, none of the Justices in the majority said anything about the history of the abortion right. And as for precedent, the Court relied on essentially the same body of cases that Roe had cited. Thus, with respect to the standard
+grounds for constitutional decisionmaking—text, history, and precedent—Casey did not attempt to bolster Roe’s rea- soning.
+The Court also made no real effort to remedy one of the greatest weaknesses in Roe’s analysis—its much-criticized discussion of viability. The Court retained what it called Roe’s “central holding’—that a State may not regulate pre- viability abortions for the purpose of protecting fetal life— but it provided no principled defense of the viability line.
+Id., at 860, 870-871. Instead, it merely rephrased what Roe had said, stating that viability marked the point at which “the independent existence of a second life can in reason and fairness be the object of state protection that now over- rides the rights of the woman.” Jd., at 870. Why “reason
+
+ Opinion of the Court
+c
+52 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+and fairness” demanded that the line be drawn at viability the Court did not explain. And the Justices who authored the controlling opinion conspicuously failed to say that they agreed with the viability rule; instead, they candidly acknowledged “the reservations [some] of us may have in reaffirming [that] holding of Roe.” Id., at 853.
+The controlling opinion criticized and rejected Roe’s tri- mester scheme, id., at 872, and substituted a new “undue burden” test, but the basis for this test was obscure. And as we will explain, the test is full of ambiguities and is dif- ficult to apply.
+Casey, in short, either refused to reaffirm or rejected im- portant aspects of Roe’s analysis, failed to remedy glaring deficiencies in Roe’s reasoning, endorsed what it termed Roe’s central holding while suggesting that a majority might not have thought it was correct, provided no new sup- port for the abortion right other than Roe’s status as prece- dent, and imposed a new and problematic test with no firm grounding in constitutional text, history, or precedent.
+As discussed below, Casey also deployed a novel version of the doctrine of stare decisis. See Part III-E, infra. This new doctrine did not account for the profound wrongness of the decision in Roe, and placed great weight on an intangi- ble form of reliance with little if any basis in prior case law. Stare decisis does not command the preservation of such a decision.
+Workability. Our precedents counsel that another im- portant consideration in deciding whether a precedent should be overruled is whether the rule it imposes is work- able—that is, whether it can be understood and applied in aconsistent and predictable manner. Montejo v. Louisiana, 556 U. S. 778, 792 (2009); Patterson v. McLean Credit Un- ion, 491 U.S. 164, 173 (1989); Gulfstream Aerospace Corp.
+
+ Opinion of the Court
+Cite as: ___ U. S. ____ (20_) 53
+v. Mayacamas Corp., 485 U. S. 271, 283-284 (1988). Ca- sey's “undue burden” test has scored poorly on the worka- bility scale.
+1
+Problems begin with the very concept of an “undue bur-
+den.” As Justice Scalia noted in his Casey dissent, deter- mining whether a burden is “due” or “undue” is “inherently standardless.” 505 U.S., at 992 (Scalia, J., dissenting); see also June Medical Services, LLC, 591 U.S., at _ (GORSUCH, J., dissenting) (slip op., at 17) (“[W]hether a bur- den is deemed undue depends heavily on which factors the judge considers and how much weight he accords them.” (in- ternal quotation marks and alterations omitted)).
+The Casey plurality tried to put meaning into the “undue burden’ test by setting out three subsidiary rules, but these rules created their own problems. The first rule is that “a provision of law is invalid, if its purpose or effect is to place a substantial obstacle in the path of a woman seeking an abortion before the fetus attains viability.” 505 U.S., at 878 (emphasis added); see also id., at 877. But whether a par- ticular obstacle qualifies as “substantial” is often open to reasonable debate. In the sense relevant here, “substan-
+tial” means “of ample or considerable amount, quantity, or size.” Random House Webster’s Unabridged Dictionary 1897 (2d ed. 2001). Huge burdens are plainly “substantial,” and trivial ones are not, but in between these extremes, there is a wide gray area.
+This ambiguity is a problem, and the second rule, which applies at all stages of a pregnancy, muddies things further. It states that measures designed “to ensure that the woman’s choice is informed” are constitutional so long as they do not impose “an undue burden on the right.” Casey, 505 U. S., at 878. To the extent that this rule applies to pre- viability abortions, it overlaps with the first rule and ap- pears to impose a different standard. Consider a law that imposes an insubstantial obstacle but serves little purpose.
+
+ Opinion of the Court
+54 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+As applied to a pre-viability abortion, would such a regula- tion be constitutional on the ground that it does not impose a “substantial obstacle”? Or would it be unconstitutional on the ground that it creates an “undue burden” because the burden it imposes, though slight, outweighs its negligible benefits? Casey does not say, and this ambiguity would lead to confusion down the line. Compare June Medical, 591 U.S., at ___ (slip op., 1-2), with id., at ___ (ROBERTS, C. J.,
+concurring) (slip op., at 5-6).
+The third rule complicates the picture even more. Under
+that rule, “fujnnecessary health regulations that have the purpose or effect of presenting a substantial obstacle to a woman seeking an abortion impose an undue burden on the right.” 505 U.S., at 878 (emphasis added). This rule con- tains no fewer than three vague terms. It includes the two already discussed—“undue burden” and “substantial obsta- cle’—even though they are inconsistent. And it adds a third ambiguous term when it refers to “unnecessary health regulations.” The term “necessary” has a range of mean-
+ings—from “essential” to merely “useful.” See Black’s Law Dictionary 928 (5th ed. 1979); American Heritage Diction- ary of the English Language 877 (1975). Casey did not ex- plain the sense in which the term is used in this rule.
+In addition to these problems, one more applies to all three rules. They all call on courts to examine a law’s effect on women, but a regulation may have a very different im- pact on different women for a variety of reasons, including their places of residence, financial resources, family situa- tions, work and personal obligations, knowledge about fetal development and abortion, psychological and emotional dis-
+position and condition, and the firmness of their desire to obtain abortions. In order to determine whether a regula- tion presents a substantial obstacle to women, a court needs to know which set of women it should have in mind and how many of the women in this set must find that an obstacle is “substantial.”
+
+ Opinionofthe Court
+2
+Cite as: ___ U. S. ___ (20__.) 55
+Casey provided no clear answer to these questions. It said that a regulation is unconstitutional if it imposes a substantial obstacle “in a large fraction of cases in which [it] is relevant,” 505 U. S., at 895, but there is obviously no clear line betweenafraction that is “large” and one that is not. Nor is it clear what the Court meant by “cases in
+which” a regulation is “relevant.” These ambiguities have caused confusion and disagreement. Compare Whole Woman’s Health v. Hellerstedt, 579 U. S. 582, __ (2016) (slip op., at 39), with id., at ___ (ALITO, J., dissenting) (slip op.,
+24-25 & n. 11).
+The difficulty of applying Casey's new rules surfaced in that very case. The controlling opinion found that Pennsyl- vania’s 24-hour waiting period requirement and its in- formed-consent provision did not impose “undue burden[s],” Casey, 550 U. S., at 881-888 (plurality opinion), but Justice Stevens, applying the same test, reached the opposite re- sult. Id., at 920-922 (Stevens, J., concurring in part and dissenting in part). That did not bode well, and then-Chief Justice Rehnquist aptly observed that “the undue burden standard presents nothing more workable than the tri- mester framework.” Id., at 964-966 (Rehnquist, C. J., dis-
+senting)
+The ambiguity of the “undue burden” test also produced
+disagreement in later cases. In Whole Woman’s Health v. Hellerstedt, the Court adopted the cost-benefit interpreta- tion of the test, stating that that “[t]he rule announced in Casey... requires that courts consider the burdens a law imposes on abortion access together with the benefits those laws confer.” 579 U.S. __, —_ (2016) (slip op., at 19-20) (em- phasis added). But five years later, a majority of the Jus- tices rejected that interpretation. See June Medical, 591
+U.S. __ (2020). Four Justices reaffirmed Whole Woman’s Health’s instruction to “weigh” a law’s “benefits” against
+
+ Opinion of the Court
+3
+752 (CAT 2021).
+53 Compare Planned Parenthood v. Camblos, 155 F. 3d 352, 367 (CA4
+56 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+“the burdens it imposes on abortion access.” Id., at __ (opin- ion of BREYER, J.) (slip op., at 2) (internal quotation marks omitted). But the Chief Justice—who cast the deciding vote—argued that “[nJothing about Casey suggested that a weighing of costs and benefits of an abortion regulation was a job for the courts.” Id., at __ (ROBERTS, C. J., concurring) (slip op., at 6). And the four Justices in dissent rejected the lead opinion’s interpretation of Casey. See id., at __ (ALITO,
+J., dissenting, joined in relevant part by THOMAS, GorsUCH, and KAVANAUGH, JJ.) (slip op., at 4); id., at __ (GoRSUCH, J., dissenting) (slip op., at 15-18; (KAVANAUGH, J., dissenting) (slip op., at 1-2) (“five Members of the Court reject the Whole Woman’s Health cost-benefit standard”).
+This Court’s experience applying Casey has confirmed Chief Justice Rehnquist’s prescient diagnosis that the un- due-burden standard was “not built to last.” Casey, 505
+U.S., at 965 (Rehnquist, C. J, dissenting in part).
+The experience of the Courts of Appeals provides further evidence that Casey’s “line between” permissible and un- constitutional restrictions “has proved to be impossible to draw with precision.” Janus, 585 U.S., at __ (slip op., at 38).
+Casey has generated a long list of circuit conflicts. Most recently, the Courts of Appeals have disagreed about whether the balancing test from Whole Woman’s Health correctly states the undue-burden framework. They have disagreed on the legality of parental notification rules.
+52 Compare Whole Woman’s Health v. Paxton, 10 F. 4th 430, 440 (CAS 2021), EMW Women’s Surgical Ctr., P.S.C. v. Friedlander, 978 F, 3d 418, 437 (CAG 2020), and Hopkins v. -Jegley, 968 F. 3d 912, 915 (CA8 2020), with Planned Parenthood of Ind. & Ky., Inc., v. Box, 991 F. 3d 740, 751—
+1998), with Planned ParenthoodofInd. & Ky., Inc., v. Adams, 937 F. 3d
+
+ Opinion of the Court
+Cite as: U.S. (20_) 57
+They have disagreed about bans on certain dilation and ex- traction procedures.®! They have disagreed about when an increase in the time needed to reacha clinic constitutes an undue burden.®> And they have disagreed on whether a state may regulate abortions performed because of the fe-
+tus’s race, sex, or disability.5*
+The Courts of Appeals have experienced particular diffi-
+culty in applying the large-fraction-of-relevant-cases test. They have criticized the assignment while reaching unpre- dictable results.57 And they have candidly outlined Casey’s many other problems.**
+973, 985-990 (CA7 2019), certiorari granted, judgment vacated, 591 U.S. __ (2020), and Planned Parenthood v. Miller, 63 F. 3d 1452, 1460 (CA8 1995).
+54 Compare Whole Woman’s Health v. Paxton, 10 F.4th, at 435-436, with W. Ala. Women’s Ctr. v. Williamson, 900 F. 3d 1310, 1319, 1327 (CA11 2018), and EMW Women’s Surgical Ctr., P.S.C. v. Friedlander, 960 F. 3d 785, 806-808 (CA6 2020).
+55 Compare Tucson Woman’s Clinic v. Eden, 379 F. 3d 531, 541 (CA9 2004), with Women’s Med. Prof'l Corp. v. Baird, 438 F. 3d 595, 605 (CA6 2006) and Greenville Women’s Clinic v. Bryant, 222 F. 3d 157, 171-172 (CA4 2000).
+56 Compare Preterm-Cleveland, 994 F. 3d 512, 520-535 (CA6 2021), with Little Rock Family Planning Servs. v. Rutledge, 984 F. 3d 682, 688- 690 (CA8 2021).
+57 See, e.g., Bristol Reg’l Women’s Center, P.C. v. Slatery, 7 F. 4th 478, 485 (CAG 2021); Reproductive Health Servs. v. Strange, 3 F. 4th 1240, 1269; June Medical Servs., LLC v. Gee, 905 F. 3d 787, 814 (CA5 2020), reversed, 591 U.S. _; Preterm-Cleveland, 994 F. 3d, at 534; Planned Parenthood of Ark. & E. Okla. v. Jegley, 864 F. 3d 953, 958-960 (CA8 2017); McCormack v. Hertzog, 788 F. 3d 1017, 1029-1030 (CA9 2015);
+compare Newman, 305 F. 3d., at 699 (Coffey, J., concurring), with id., at 708 (Wood, J., dissenting).
+58 See, e.g., Memphis Ctr. for Reproductive Health v. Slatery, 14 F. 4th 409, 451 (CA6 2021) (Thapar, J., concurring in judgment in part and dis- senting in part); Preterm-Cleveland, 994 F.3d, at 524 (CA6 2021); Planned ParenthoodofInd. & Ky., 888 F. 3d, at 313 (Manion, J., concur- ring in the judgment in part and dissenting in part); Planned Parenthood of Ind. & Ky., Inc,, v. Box, 949 F. 3d 997, 999 (CA7 2019) (Easterbrook,
+
+ Opinion of the Court
+D
+58 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Casey's “undue burden’ test has proven to be unworkable. “[P]lucked from nowhere,” 505 U.S., at 965 (Rehnquist, C. J., dissenting in part), it “seems calculated to perpetuate give-it-a-try litigation” before judges assigned an unwieldy and inappropriate task. Lehnert v. Ferris Faculty Assn., 500 U. S. 507, 551 (1991) (Scalia, J., concurring in the judg-
+ment in part and dissenting in part). Continued adherence to that standard would undermine, not advance, the “even- handed, predictable, and consistent development of legal principles.” Payne, 501 U. S., at 827.
+Effect on other areas of law. Roe and Casey have led to the distortion of many important but unrelated legal doc- trines, and that effect provides further support for overrul- ing those decisions. See Ramos, 590 U. S. at __ (KAVANAUGH, J., concurring) (slip op., at 8); Janus, 585 U.S., at __ (slip op., at 34).
+Members of this Court have repeatedly lamented that “no legal rule or doctrine is safe from ad hoc nullification by the Court when an occasion for its application arises in a case involving state regulation of abortion.” Thornburgh, 476 U.S., at 814 (O'Connor, J., dissenting); see Madsen v.
+Women’s Health Center, Inc., 512 U.S. 753, 785 (1994) (Scalia, J., concurring in the judgment in part and dissent- ing in part); Whole Woman’s Health, 579 U.S., at _ (THOMAS, J., dissenting) (slip op., at 1); id., at __-__ (ALITO, J, dissenting) (slip op., at 4-24, 37-48); June Medical, 591
+J., concurring in denial of rehearing en banc) (“How much burden is ‘un- due’ is a matter of judgment, which depends on what the burden is . .. and whether that burden is excessive (a matter of weighing costs and benefits, which one judge is apt to do differently from another, and which
+judges as a group are apt to do differently from state legislators)’); Nat ‘Abortion Fed’n v. Gonzales, 437 F. 3d 278, 290-296 (CA2 2006) (Walker, C. J., concurring); Planned Parenthood of Rocky Mountains Servs. Corp. vy. Owens, 287 F. 3d 910, 931 (CA10 2002) (Baldock, J., dissenting).
+
+ Opinion of the Court
+E
+Cite as: U.S. ___ (20_) 59
+U.S., at__—__ (GORSUCH, J., dissenting) (slip op., at 1-15). The Court’s abortion cases have diluted the strict stand- ard for facial constitutional challenges. They have ig- nored the Court’s third-party standing doctrine.” They have disregarded standard res judicata principles.5' They
+have flouted the ordinary rules on the severability of uncon- stitutional provisions,® as well as the rule that statutes should be read where possible to avoid unconstitutional- ity. And they have distorted First Amendment doc- trines.®¢
+When vindicating a doctrinal innovation requires courts to engineer exceptions to longstanding background rules, the doctrine “has failed to deliver the ‘principled and intel- ligible’ development of the law that stare decisis purports to secure.” June Medical, 591 U. S., at __ (THOMAS, J., dis- senting) (slip op., at 19) (quoting Vasquez v. Hillery, 474
+U.S. 254, 265 (1986)).
+Reliance interests. We last consider whether overruling Roe and Casey will upend substantial reliance interests. See Ramos, 590 U.S., at _(KAVANAUGH, J., concurring)
+9 Compare United States v. Salerno, 481 U.S. 739, 745 (1987), with Casey, 505 U. S., at 895; see also supra, at __-_.
+69 Compare Warth v. Seldin, 422 U. S. 490, 499 (1975), and Elk Grove Unified School Dist. v. Newdow, 542 U. S. 1, 15, 17-18 (2004), with June Medical, 591 U. S., at _ (ALITO, J., dissenting) (slip op., at 28), id., at__ (Gorsuc, J., dissenting) (slip op. at 6-7) (collecting cases), and Whole Woman’s Health, 579 U.S., at __n. 1 (THOMAS, J., dissenting) (slip op.,
+at 4-5).
+61 Compare Whole Woman's Health, 579 U.S., at __ (slip op., at 12),
+with id., at ___ (ALITO, J., dissenting) (slip op., at 10).
+62 Compare Whole Woman’s Health, at (slip op., at 36-38), with id., at
+__ (AuITO, J., dissenting) (slip op., at 2).
+63 See Sternberg v. Carhart, 530 U.S 914, 977-978 (2000) (Kennedy,
+J., dissenting); id., at 996-997 (THOMAS, J., dissenting).
+64 Seo Hill v, Colorado, 580 U.S. 703, 741-742 (Scalia, J., dissenting);
+id., at 765 (Kennedy, J., dissenting).
+
+ Opinion of the Court
+(slip op. at 15); Janus, 585 U. S., at ___ (slip op., at 34-35).
+1
+2
+60 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Traditional reliance interests arise “when advance plan- ning of great precision is most obviously a necessity.” Ca- sey, 505 U. S., at 856 (plurality opinion); see also Payne, 501 U. S., at 828. In Casey, the controlling opinion conceded that those traditional reliance interests were not implicated because getting an abortion is generally “unplanned activ-
+ity,” and “reproductive planning could take virtually imme- diate account of any sudden restoration of state authority to ban abortions.” 505 U. S., at 856. For these reasons, we agree with the Casey plurality that conventional, concrete reliance interests are not present here.
+Unable to find reliance in the conventional sense, the con- trolling opinion in Casey perceived a more intangible form of reliance. It wrote that “people [had] organized intimate relationships and made choices that define their views of themselves and their places in society[] in reliance on the availability of abortion in the event that contraception should fail” and that “[t]he ability of women to participate equally in the economic and social life of the Nation has been facilitated by their ability to control their reproductive
+lives.” Ibid. But this Court is ill-equipped to assess “gen- eralized assertions about the national psyche.” Id., at 957 (Rehnquist, C. J., concurring in part and dissenting in part). Casey’s notion of reliance thus finds little support in our cases, which instead emphasize very concrete reliance interests, like those that develop in “cases involving prop- erty and contract rights.” Payne, 501 U.S., at 829.
+When a concrete reliance interest is asserted, courts are equipped to evaluate the claim, but assessing the novel and intangible form of reliance endorsed by the Casey plurality
+
+ Opinion of the Court
+Cite as: ___U.S._ @0_) 61
+is another matter. That form of reliance depends on an em- pirical question that is hard for anyone—and in particular, for a court—to assess, namely, the effect of the abortion right on society and in particular on the lives of women. The contending sides in this case make impassioned and conflicting arguments about the effects of the abortion right on the lives of women. Compare Brief for Petitioners 34— 36; Brief for Amici Curiae Women Scholars & Professionals, et al. 13-20, 29-41, with Brief for Respondents 36-41; Brief for Nat’l Women’s Law Center et al. as Amici Curiae 15-32.
+The contending sides also make conflicting arguments about the status of the fetus. This Court has neither the authority nor the expertise to adjudicate those disputes, and the Casey plurality’s speculations and weighing of the relative importance of the fetus and mother represent a de- parture from the “original constitutional proposition” that “courts do not substitute their social and economic beliefs
+for the judgment of legislative bodies.” Ferguson v. Shrupa, 372 U.S. 726, 729-739 (1963).
+Our decision returns the issue of abortion to those legis- lative bodies, and it allows women on both sides of the abor- tion issue to seek to affect the legislative process by influ- encing public opinion, lobbying legislators, voting, and running for office. Women are not without electoral or po- litical power. It is noteworthy that the percentage of women who register to vote and cast ballots is consistently higher than the percentage of men who do so.®° In the last election in November 2020, women, who make up around 51.5% of the population of Mississippi,® constituted 55.5%
+65 See Dep't of Commerce, U. S. Census Bureau, An Analysis of the 2018 Congressional Election 6, tbl. 5 (Dec. 2021) (showing that women made up over 50% of the voting population in every congressional elec- tion between 1978 and 2018).
+66 Dep’t of Commerce, U. S. Census Bureau, QuickFacts, Mississippi, https://www.census.gov/quickfacts/MS (July 1, 2021).
+
+ Opinion of the Court
+of the voters who cast ballots.®7 3
+Unable to show concrete reliance on Roe and Casey them- selves, the Solicitor General suggests that overruling those decisions would “threaten the Court’s precedents holding that the Due Process Clause protects other rights.” Brief for United States as Amicus Curiae 26 (citing Obergefell v. Hodges, 576 U. S. 644 (2015); Lawrence v. Texas, 539 U.S. 558 (2003); Griswold v. Connecticut, 381 U.S. 479 (1965)). That is not correct for reasons we have already discussed. As even the Casey plurality recognized, “[a]bortion is a unique act” because it terminates “life or potential life.” 505 U.S., at 852; see also Roe, 410 U. S., at 159 (abortion is “in- herently different from marital intimacy,” “marriage,” or “procreation”). And to ensure that our decision is not mis- understood or mischaracterized, we emphasize that our de- cision concerns the constitutional right to abortion and no other right. Nothing in this opinion should be understood to cast doubt on precedents that do not concern abortion.
+IV
+62 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Having shown that traditional stare decisis factors do not weigh in favor of retaining Roe or Casey, we must address one final argument that featured prominently in the Casey plurality opinion.
+The argument was cast in different terms, but stated simply, it was essentially as follows. The American people’s belief in the rule of law would be shaken if they lost respect for this Court as an institution that decides important cases based on principle, not “social and political pressures.” Ca- sey, 505 U.S., at 865. There is a special danger that the
+67 Dep't of Commerce, U. S. Census Bureau, Voting and Registration in the Election of November 2020, Table 4b, Reported Voting and Regis- tration, by Sex, Race and Hispanic Origin, for States: November 2020,
+https://www.census.gov/data/tables/time-series/demo/voting-and-regis- tration/p20-585.html.
+
+ Opinionof the Court
+Cite as: ___ U.S. (20_) 63
+public will perceive a decision as having been made for un- principled reasons when the Court overrules a controversial “watershed” decision, such as Roe. Id., at 866-867. A deci- sion overruling Roe would be perceived as having been made “under fire” and as a “surrender to political pressure,” id., at 867, and therefore the preservation of public ap- proval of the Court weighs heavily in favor of retaining Roe, see id., at 869.
+This analysis starts out on the right foot but ultimately veers off course. The Casey plurality was certainly right that it is important for the public to perceive that our deci- sions are based on principle, and we should make every ef- fort to achieve that objective by issuing opinions that care- fully show how a proper understanding of the law leads to the results we reach. But we cannot exceed the scope of our authority under the Constitution, and we cannot allow our decisions to be affected by any extraneous influences such as concern about the public’s reaction to our work. Cf. Texas v. Johnson, 491 U. 8. 397 (1989); Brown v. Board of
+Education, 347 U.S. 483 (1954). That is true both when we initially decide a constitutional issue and when we consider whether to overrule a prior decision. As Chief Justice Rehnquist explained, “The Judicial Branch derives its legit- imacy, not from following public opinion, but from deciding by its best lights whether legislative enactments of the pop- ular branches of Government comport with the Constitu- tion. The doctrine of stare decisis is an adjunct of this duty and should be no more subject to the vagaries of public opin- ion than is the basic judicial task.” Casey, 505 U. S., at 963
+(Rehnquist, C. J.). In suggesting otherwise, the Caseyplu- rality went beyond this Court’s role in our constitutional system.
+The Casey plurality “call[ed] the contending sides of a na- tional controversy to end their national division,” and claimed the authority to impose a permanent settlement of the issue of a constitutional abortion right simply by saying
+
+ Opinion of the Court
+64 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+that the matter was closed. Id., at 867. That unprece- dented claim exceeded the power vested in us by the Con- stitution. As Hamilton famously put it, the Constitution gives the judiciary “neither Force nor Will.” The Federalist No. 78, p. 523 (J. Cooke ed. 1961). Our sole authority is to exercise “judgment”—which is to say, the authority to judge what the law means and how it should apply to the case at hand. Ibid. The Court has no authority to decree that an
+erroneous precedent is permanently exempt from evalua- tion under traditional stare decisis principles. A precedent of this Court is subject to the usual principles of stare deci- sis under which adherence to precedent is the norm but not an inexorable command. If the rule were otherwise, erro- neous decisions like Plessy and Lochner would still be the law. That is not how stare decisis operates.
+The Casey plurality also misjudged the practical limits of this Court’s influence. Roe certainly did not succeed in end- ing division on the issue of abortion. On the contrary, Roe “inflamed” a national issue that has remained bitterly divi- sive for the past half-century. See Casey, 505 U. S., at 995 (Scalia, J., dissenting); see also R. B. Ginsburg, Speaking in a Judicial Voice, 67 N.Y.U. L. Rev. 1185, 1208 (1992) (Roe may have “halted a political process,” “prolonged divisive- ness,” and “deferred stable settlement of the issue.”). And for the past 30 years, Casey has done the same.
+Neither decision has ended debate over the issue of a constitutional right to obtain an abortion. Indeed, in this case, 26 States expressly ask us to overrule Roe and Casey and to return the issue of abortion to the people and their elected representatives. This Court’s inability to end de- bate on the issue should not have been surprising. This Court cannot bring about the permanent resolution of a rancorous national controversy simply by dictating a settle- ment and telling the people to move on. Whatever influence the Court may have on public attitudes must stem from the
+strength of our opinions, not an attempt to exercise “raw
+
+ Opinion of the Court
+Vv
+A
+Cite as; ___ U. S.____ 20_.) 65
+Under our precedents, rational-basis review is the appro- priate standard for such challenges. As we have explained, procuring an abortion is not a fundamental constitutional right because sucha right has no basis in the Constitution’s text or in our Nation’s history. See supra, at _-_.
+Tt follows that the States may regulate abortion for legit- imate reasons, and when such regulations are challenged under the Constitution, courts cannot “substitute their so- cial and economic beliefs for the judgment of legislative bod- jes.” Ferguson, 372 U. S. at 729-739; see also Dandridge v. Williams, 397 U.S. 471, 484-486 (1970); United States v. Carolene Products Co., 304 U. S. 144, 152 (1938). That re- spect for a legislature’s judgment applies even when the Jaws at issue concern matters of great social significance and moral substance. See, e.g., Board of Trustees of Univ.
+judicial power.” Roe, 410 U. S., at 222 (White, J., dissent- ing).
+We do not pretend to know how our political system or society will respond to today’s decision overruling Roe and Casey. And even if we could foresee what will happen, we would have no authority to let that knowledge influence our decision. We can only do our job, which is to interpret the
+law, apply longstanding principles of stare decisis, and de- cide this case accordingly.
+We therefore hold that the Constitution does not confer a right to abortion. Roe and Casey must be overruled, and the authority to regulate abortion must be returned to the peo- ple and their elected representatives.
+We must now decide what standard will govern if state abortion regulations undergo constitutional challenge and whether the law before us satisfies the appropriate stand- ard.
+
+ Opinion of the Court
+B
+66 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+ofAla. v. Garrett, 531 U. S. 356, 365-368 (2001) (“treatment of the disabled”); Glucksberg, 521 U. S. at 728 (“assisted su- icide”); San Antonio Independent School Dist. v. Rodriguez, 411 U. S. 1, 32-35, 55 (1973) (“financing public education”).
+A law regulating abortion, like other health and welfare laws, is entitled to a “strong presumption of validity.” Hel- ler, 509 U.S., at 319. It must be sustainedif there is a ra- tional basis on which the legislature could have thought that it would serve legitimate state interests. Id., at 320; FCC vy. Beach Communications, Inc., 508 U.S. 307, 313 (1993); New Orleans, 427 U. S., at 303; Williamson v. Lee Optical of Okla., Inc., 348 U. S. 483, 491 (1955). These le- gitimate interests include respect for and preservation of
+prenatal life at all stages of development, Gonzales, 550 U.S., at 157-158; the protection of maternal health and safety; the elimination of particularly gruesome or barbaric medical procedures; the preservation of the integrity of the medical profession; the mitigation of fetal pain; and the pre- vention of discrimination on the basis of race, sex, or disa-
+bility. See id., at 156-157; Roe, 410 U. S., at 150; ef. Glucks- berg, 521 U. S., at 728-731 (identifying similar interests).
+These legitimate interests justify Mississippi's Gesta- tional Age Act. Except “in a medical emergency or in the case of a severe fetal abnormality,” the statute prohibits abortion “if the probable gestational age of the unborn hu- man being has been determined to be greater than fifteen (15) weeks.” Miss. Code Ann, §41-41-191(4)(b). The Mis- sissippi Legislature’s findings recount the stages of “human prenatal development” and assert the State's interest in “protecting the life of the unborn.” Id. §2(b)(i)(2). The leg- islature also found that abortions performed after fifteen
+weeks typically use the dilation and evacuation procedure, and the legislature found the use of this procedure “for non- therapeutic or elective reasons [to be] a barbaric practice,
+
+ Opinion of the Court
+VI
+Cite as: __U. S.___ @0_) 67
+dangerous for the maternal patient, and demeaning to the medical profession.” Id. §2(b)(i)(8); see also Gonzales, 550 U.S., at 135-143 (describing such procedures). These legit- imate interests provide a rational basis for the Gestational
+Age Act, and it follows that respondents’ constitutional challenge must fail.
+We end this opinion where we began. Abortion presents a profound moral question. The Constitution does not pro- hibit the citizens of each State from regulating or prohibit- ing abortion. Roe and Casey arrogated that authority. We now overrule those decisions and return that authority to the people and their elected representatives.
+The judgment of the Fifth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.
+It is so ordered.
+
+ 1. Missouri (1825):
+2. Illinois (1827):
+Opinion of the Court APPENDIX A
+68 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+This appendix contains statutes criminalizing abortion at all stages of pregnancy in the States existing in 1868. The statutes appear in chronological order.
+Every person who shall wilfully and maliciously ad- minister, or cause to be administered to, or taken by any person, any poison, or other noxious or destructive substance or liquid, with an intention to cause the death of such person, or to procure the miscarriage of any woman, then being with child, and shall thereof be duly convicted, shall be imprisoned for a term not ex- ceeding three years, and be fined in a sum not exceed-
+ing one thousand dollars. ®
+63 Actof July 4, 1925, ch. 1, §12, 1 Mo. Laws 281, 283 (1825); see also Act of Mar. 20, 1835, Mo. Rev. Stat. art. I, §§ 10, 36 (extending liability to abortions performed by instrument and establishing differential pen- alties for pre- and post-quickening abortion).1835) (emphasis added).
+69 III. Rev. Code § 46 (1827) (emphasis added); see also Ill. Rev. Code § 46 (1833) (same); Ill, Pub. Laws § 1 (1867) (extending liabilittyoabor- tions “by means of any instruments” and raising penalties to imprison- ment “not less than two nor more than ten years”).
+That every person who shall wilfully and maliciously administer or cause to be administered to or taken by any person, any poison, or other noxious, poisonous or destructive substance or liquid, with an intention to harm him or her thereby to murder, or thereby to cause or procure the miscarriage of any woman then being with child, and shall thereof be duly convicted, shall suffer imprisonment not exceeding seven years, and be
+fined not exceeding three thousand dollars.
+
+ 3. New York (1828):
+4, Ohio (1834):
+Opinion of the Court
+Sec. 1. Be it enacted by the General Assembly of State of Ohio, That any physician, or other person, who shall wilfully administer to any pregnant woman anymedi- cine, drug, substance, or thing whatever, or shall use any instrument or other means whatever, with intent thereby to procure the miscarriage of any such woman, unless the same shall have been necessary to preserve
+Cite as: ___ U.S. (20_) 69
+Sec. 9. Every person who shall administer to any woman pregnant with a quick child, any medicine, drug or substance whatever, or shall use or employ any in- strument or other means, with intent thereby to de- stroy such child, unless the same shall have been nec- essary to preserve the life of such mother, or shall have been advised by two physicians to be necessary for such
+purpose, shall, in case the death of such child or of such mother be thereby produced, be deemed guilty of man- slaughter in the second degree.
+Sec. 21. Every person who shall willfully administer to any pregnant woman, any medicine, drug, substance or thing whatever, or shall use or employ any instrument of other means whatever, with intent thereby to pro- cure the miscarriage of any such woman, unless the same shall have been necessary to preserve the life of such woman, or shall have been advised by two physi- cians to be necessary for that purpose; shall, upon con- viction, be punished by imprisonment in a county jail not more than one year, or by fine not exceeding five
+hundred dollars, or by both such fine and imprison- ment.7°
+70. Y. Rev. Stat. pt. IV, ch. L, tit. II, §9; id., at tit. VI, §21 (1828-1835); Act of Dec. 10, 1828 (codifying these provisions in the revised statutes).
+
+ 5. Indiana (1835):
+Opinion of the Court
+70
+DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+That every person who shall wilfully administer to any pregnant woman, any medicine, drug, substance or thing whatever, or shall use or employ any instrument or other means whatever, with intent thereby to pro- cure the miscarriage of any such woman, unless the same shall have been necessary to preserve the life of such woman, shall upon conviction be punished by im- prisonment in the county jail any term of time not ex- ceeding twelve months and be fined any sum not ex-
+ceeding five hundred dollars. 7
+1 Act of Feb. 27, 1834, §§ 1, 2, 1834 Ohio Laws 20-21 (emphasis added).
+7 Act of Feb. 7, 1835, ch. 47, § 3, 1835 Ind. Gen. Laws 66 (emphasis added).
+the life of such woman, or shall have been advised by two physicians to be necessary for that purpose, shall, upon conviction, be punished by imprisonment in the county jail not more than one year, or by fine not ex- ceeding five hundred dollars, or by both such fine and imprisonment.
+Sec. 2. That any physician, or other person, who shall administer to any woman pregnant with a quick child, any medicine, drug, or substance whatever, or shall use or employ any instrument, or other means, with intent thereby to destroy such child, unless the same shall
+have been necessary to preserve the life of such mother, or shall have been advised by two physicians to be nec- essary for such purpose, shall, in case of the death of child or mother in consequence thereof, be deemed guilty of high misdemeanor, and, upon conviction thereof, shall be imprisoned in the penitentiary not more than seven years, nor less than one year.”!
+
+ 6. Maine (1840):
+7, Alabama (1841):
+Cite as: ___ U. S.___ (20__.) 71 Opinion of the Court
+Sec. 13. Every person, who shall administer fo any woman pregnant with child, whether such child be quick or not, any medicine, drug or substance what- ever, or shall use or employ any instrument or other means whatever, with intent to destroy such child, and shall thereby destroy such child before its birth, unless
+the same shall have been done as necessary to preserve the life of the mother, shall be punished by imprison- ment in the state prison, not more than five years, or by fine, not exceeding one thousand dollars, and im- prisonment in the county jail, not more than one year.
+Sec. 14. Every person, who shall administer to any woman, pregnant with child, whether such child shall be quick or not, any medicine, drug or substance what- ever, or shall use or employ any instrument or other means whatever, with intent thereby to procure the miscarriage of such woman, unless the same shallhave been done, as necessary to preserve her life, shall be
+punished by imprisonment in the county jail, not more than one year, or by fine, not exceeding one thousand dollars.78
+73 Me. Rev. Stat. ch. 160, §§ 13-14 (1840) (emphasis added).
+Sec. 2. Every person who shall wilfully administer to any pregnant woman any medicines, drugs, substance or thing whatever, or shall use and employ any instru- ment or means whatever with intent thereby to procure the miscarriage of such woman, unless the same shall be necessary to preserve her life, or shall have been ad- vised by a respectable physician to be necessary for that purpose, shall upon conviction, be punished by fine
+
+ Opinion of the Court
+8. Massachusetts (1845):
+9. Michigan (1846):
+Sec. 33. Every person who shall administer to any woman pregnant with a quick child, any medicine, drug or substance whatever, or shall use or employ any, in- strument or other means, with intent thereby to de- stroy such child, unless the same shall have been nec- essary to preserve the life of such mother, or shall have
+72 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Whoever, maliciously or without lawful justification, with intent to cause and procure the miscarriage of a woman. then pregnant with child, shall administer to her, prescribe for her, or advise or direct her to take or swallow, any poison, drug, medicine or noxious thing, or shall cause or procure her with like intent, to take or swallow any poison, drug, medicine or noxious thing; and whoever maliciously and without lawful justifica-
+tion, shall use any instrument or means whatever with the like intent, and every person, with the like intent, knowingly aiding and assisting such offender or offend- ers, shall be deemed guilty of felony, if the woman die in consequence thereof, and shall be imprisoned not more than twenty years, nor less than five years in the State Prison; and if the woman doth not die in conse- quence thereof, such offender shall be guilty of a mis- demeanor, and shall be punished by imprisonment not exceeding seven years, nor less than one year, in the
+state prison or house of correction, or common jail, and by fine not exceeding two thousand dollars.”
+7 Act of Jan. 9, 1841, ch. 6, § 2, 1841 Ala. Acts 143 (emphasis added). 7 Act of Jan. 31, 1845, ch. 27, 1845 Mass. Acts 406 (emphasis added).
+not exceeding five hundred dollars, and by imprison- ment in the county jail, not less than three, and not ex- ceeding six months.”
+
+ 10. Vermont (1846):
+Cite as: ___U. S.____ (20__) 73 Opinion of the Court
+been advised by two physicians to be necessary for such purpose, shall, in case the death of such child or of such mother be thereby produced, be deemed guilty of man- slaughter.
+Sec. 34. Every person who shall wilfully administer ¢o any pregnant woman any medicine, drug, substance or thing whatever, or shall employ any instrument or other means whatever, with intent thereby to procure the miscarriage of any such woman, unless the same shall have been necessary to preserve the life of such
+woman, or shall have been advised by two physicians to be necessary for that purpose, shall, upon conviction, be punished by imprisonment in a county jail not more than one year, or by a fine not exceeding five hundred dollars, or by both such fine and imprisonment.”®
+Whoever maliciously, or without lawful justification with intent to cause and procure the miscarriage of a woman, then pregnant with child, shall administer to her, prescribe for her, or advise or direct her to take or swallow any poison, drug, medicine or noxious thing, or shall cause or procure her, with like intent, to take or swallow any poison, drug, medicine or noxious thing, and whoever maliciously and without lawful justifica- tion, shall use any instrument or means whatever,with the like intent, and every person, with the like intent,
+knowingly aiding and assisting such offenders, shall be deemed guilty of felony, if the woman die in conse- quence thereof, and shall be imprisoned in the state prison, not more than ten years, nor less than five years; and if the woman does not die in consequence thereof, such offenders shall be deemed guilty of a mis- demeanor; and shall be punished by imprisonment in
+7 Mich. Rev. Stat. ch. 153, §§ 33-34 (1846) (emphasis added)
+
+ 11. Virginia (1848):
+added).
+Opinion of the Court
+Any free person who shall administer to any pregnant woman, any medicine, drug or substance whatever, or use or employ any instrument or other means with in- tent thereby to destroy the child with which such woman may be pregnant, or to produce abortion or mis- carriage, and shall thereby destroy such child, or pro- duce such abortion or miscarriage, unless the same shall have been done to preserve the life of such woman, shall be punished, if the death of a quick child be thereby produced, by confinement in the peniten- tiary, for not less than one nor more than five years, or if the death of a child, not quick, be thereby produced, by confinement in the jail for not less than one nor more than twelve months.”*
+74 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Sec. 1. That every person, who shall wilfully administer to any pregnant woman, any medicine, drug, substance or thing whatever, or shall use or employ any instru- ment or means whatever with intent thereby to procure the miscarriage of any such woman, unless the same shall have been necessary to preserve the life of such woman, or shall have been advised by two physicians to be necessary for that purpose, shall, upon conviction, be punished by imprisonment in the county jail not more than one year, or by a fine not exceeding one thou- sand dollars, or by both such fine and imprisonment at
+77 Act of Oct. 30, 1846, No. 88, 1846 Vt. Acts 34-35 (emphasis added) 78 Act of Mar. 14, 1848, tit. 1, ch. 3, § 9, 1848 Va. Acts 96 (emphasis
+the state prison not exceeding three years, nor less than one year, and pay a fine not exceeding two hun- dred dollars.”
+12. New Hampshire (1849):
+
+ Opinion of the Court the discretion of the Court.
+13. New Jersey (1849):
+Cite as: ___ U.S. ____ (20_) vi)
+Sec. 2. Every person who shall administer to any woman pregnant with a quick child, any medicine, drug or substance whatever, or shall use or employ any in- strument or means whatever, with intent thereby to destroy such child, unless the same shall have been necessary to preserve the life of such woman, or shall have been advised by two physicians to be necessary for such purpose, shall, upon conviction, be punished by fine not exceeding one thousand dollars, and by con-
+finement to hard labor not less than one year, nor more than ten years.”9
+79 Act of Jan. 4, 1849, N.H. Laws ch. 743, §§ 1-2 (1848) (emphasis added).
+That if any person or persons, maliciously or without lawful justification, with intent to cause and procure the miscarriage of a woman then pregnant with child, shall administer to her, prescribe for her, or advise or direct her to take or swallow any poison, drug, medi- cine, or noxious thing; and if any poison or persons ma- liciously, and without lawful justification, shall use any instrument or means whatever, with the like intent; and every person, with the like intent, knowingly aid- ing and assisting such offender or offenders, shall, on conviction thereof, be adjudged guilty of a high misde- meanor; and if the woman die in consequence thereof, shall be punished by fine, not exceeding one thousand dollars, or imprisonment at hard labour for any term
+not exceeding fifteen years, or both; and if the woman doth not die in consequence thereof, such offender shall, on conviction thereof, be adjudged guilty of a mis- demeanor, and be punished by fine, not exceeding five hundred dollars, or imprisonment at hard labour, for
+
+ 16
+Opinion of the Court
+14, California (1850):
+And every person who shall administer or cause to be administered or taken, any medical substances, or shall use or cause to be used any instruments what- ever, with the intention to procure the miscarriage of any woman then being with child, and shall be thereof duly convicted, shall be punished by imprisonment in the State Prison for a term not less than two years, nor more than five years: Provided, that no physician shall be affected by the last clause of this section, who, in the discharge of his professional duties, deems it necessary to produce the miscarriage of any woman in order to save her life.S'
+15. Texas (1854):
+If any person, with the intent to procure the miscar- riage of any woman being with child, unlawfully and maliciously shall administer to her or cause to be taken by her any poison or other noxious thing, or shall use any instrument or any means whatever, with like in- tent, every such offender, and every person counseling or aiding or abetting such offender, shall be punished by confinement to hard labor in the Penitentiary not exceeding ten years.®?
+16. Louisiana (1856):
+DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION any term not exceeding seven years, or both.'°
+8 Act of Mar. 1, 1849, 1849 N.J. Laws 266-267 (emphasis added)
+81 Cal. Sess. Stats. ch. 99, § 45 (1849-1850) (emphasis added).
+82 Act of Feb. 9, 1854, § 1, 1854 Tex. Gen. Laws 58 (emphasis added).
+Whoever shall feloniously administer or cause to be ad- ministered any drug, potion, or any other thing to any woman, for the purpose of procuring a premature de-
+
+ 17. Iowa (1858):
+18. Wisconsin (1858):
+Opinion of the Court
+Cite as: ___U. S.____ 20_) qT
+livery, and whoever shall administer or cause to be ad- ministered to any woman pregnant with child, any drug, potion, or any other thing, for the purpose of pro- curing abortion, or a premature delivery, shall be im- prisoned at hard labor, for not less than one, nor more than ten years.®
+Sect. 58. Every person who shall administer to any
+83 La. Rev. Stat. § 24 (1856) (emphasis added).
+84 Act of Mar. 15, 1858, § 1 (codified in Iowa Rev. Laws, tit. 23, ch. 165, art, 2, §4221) (emphasis added).
+85 Wis. Rev. Stat. ch. 164, § 11, ch. 169, § 58 (1858) (emphasis added).
+That every person who shall willfully administer to any pregnant woman, any medicine, drug, substance or thing whatever, or shall use or employ any instrument or other means whatever, with the intent thereby to procure the miscarriage of any such woman, unless the same shall be necessary to preserve the life of such woman, shall upon conviction thereof, be punished by imprisonment in the county jail for a term of not ex-
+ceeding one year, and be fined in a sum not exceeding one thousand dollars. *4
+Sec. 11. Every person who shall administer to any woman pregnant with a child any medicine, drug, or substance whatever, or shall use or employ any instru- ment or other means, with intent thereby to destroy such child, unless the same shall have been necessary to preserve the life of such mother, or shall have been advised by two physicians to be necessary for such pur-
+pose, shall, in case the death of such child or of such mother be thereby produced, be deemed guilty of man- slaughter in the second degree.*
+
+ 19. Kansas (1859):
+Opinion of the Court
+78
+DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Sec. 37. Every physician or other person who shall wil- fully administer to any pregnant woman any medicine, drug or substance whatsoever, or shall use or employ any instrument or means whatsoever, with intent thereby to procure abortion or the miscarriage of any such woman, unless the same shall have been neces- sary to preserve the life of such woman, or shall have been advised by a physician to be necessary for that purpose, shall, upon conviction, be adjudged guilty ofa misdemeanor, and punished by imprisonment in a county jail not exceeding one year, or by fine not ex-
+ceeding five hundred dollars, or by both such fine and
+pregnant woman, or prescribe for any such woman, or advise or procure any such woman to take, any medi- cine, drug, or substance or thing whatever, or shall use or employ any instrument or other means whatever, or advise or procure the same to be used, with intent thereby to procure the miscarriage of any such woman, shall upon conviction be punished by imprisonment in a county jail, not more than one year nor less than
+three months, or by fine, not exceeding five hundred dollars, or by both fine and imprisonment, at the dis- cretion of the court.
+Sec. 10. Every person who shall administer to any woman, pregnant with a quick child, any medicine, drug or substance whatsoever, or shall use or employ any instrument or other means, with intent thereby to destroy such child, unless the same shall have been necessary to preserve the life of such mother, or shall have been advised by a physician to be necessary for
+that purpose, shall be deemed guilty of manslaughter in the second degree.
+
+ Cite as: ___U.S.__ (20_) 79 Opinionof the Court
+imprisonment.*¢
+20. Connecticut (1860):
+21. Pennsylvania (1860):
+(emphasis added).
+87 Conn. Pub. Acts ch. LXXI, §§ 1-2 (1860) (emphasis added).
+That any person with intent to procure the miscarriage or abortion of any woman, shall give or administer to her, prescribe for her, or advise, or direct, or cause or procure her to take, any medicine, drug or substance whatever, or use or advise the use of any instrument, or other means whatever, with the like intent, unless the same shall have been necessary to preserve the life
+of such woman, or of her unborn child, shall be deemed guilty of felony, and upon due conviction thereof shall be punished by imprisonment in the Connecticut state prison, not more than five years or less than one year, or bya fine of one thousand dollars, or both, at the dis- cretion of the court.%”
+Sec. 87. If any person shall unlawfully administer to any woman, pregnant or quick with child, or supposed and believed to be pregnant and quick with child, any drug, poison, or other substance whatsoever, or shall unlawfully use any instrument or other means whatso- ever, with the intent to procure the miscarriage of such woman, and such woman, or any child with which she may be quick, shall die in consequence of either of said unlawful acts, the person so offending shall be guilty of felony, and shall be sentenced to pay afine not exceed- ing five hundred dollars, and to undergo an imprison- ment, by separate or solitary confinement at labor, not
+exceeding seven years.
+86 Act of Feb. 3, 1859, ch. 28, §§ 10, 37, 1859 Kan. Laws 232-233, 237
+
+ 22, Rhode Island (1861):
+23. Nevada (1861):
+Opinion of the Court
+405 (emphasis added).
+89 Actsof Mar. 15, 1861, ch. 371, § 1, Acts 7 Resolves R. I. 133 (empha-
+sis added).
+80 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Every person who shall be convicted of wilfully admin- istering to any pregnant woman, or to any woman sup- posed by such person to be pregnant, anything what- ever, or shall employ any means whatever, with intent thereby to procure the miscarriage of such woman, un- less the same is necessary to preserve her life, shall be imprisoned not exceeding one year, or fined not exceed-
+ing one thousand dollars.®®
+Sec. 88. If any person, with intent to procure the mis- carriage of any woman, shall unlawfully administer to her any poison, drug or substance whatsoever, with the like intent, such person shall be guilty of felony, and being thereof convicted, shall be sentenced to pay a fine not exceeding five hundred dollars, and undergo an im-
+prisonment, by separate or solitary confinement atla- bor, not exceeding three years. **
+88 Act of Mar. 31, 1860, No. 374, tit. 6, §§ 87-88, 1860 Pa. Laws 404-
+[E]very person who shall administer, or cause to be ad- ministered or taken, any medicinal substance, or shall use, or cause to be used, any instruments whatever, with the intention to procure the miscarriage of any woman then being with child, and shall be thereof duly convicted, shall be punished by imprisonment in the Territorial prison, for a term not less than two years, nor more than five years; provided, that no physician shall be affected by the last clause of this section, who, in the discharge of his professional duties, deems it nec-
+
+ Cite as: ___U.S.___ @0_) 81 Opinion of the Court
+24, West Virginia (1863):
+25. Oregon (1864):
+If any person shall administer to any woman pregnant with child, any medicine, drug or substance whatever, or shall use or employ any instrument or other means,
+Code, ch. 144, §8 (1870) (similar).
+essary to produce the miscarriage of any woman in or- der to save her life.
+West Virginia’s Constitution adopted the laws of Virginia when it became its own State:
+Such parts of the common law and of the laws of the State of Virginia as are in force within the boundaries of West Virginia when this Constitution Goes into op- eration, and are not repugnant thereto, shall be and continue the law of this State until altered or repealed by the Legislature.®!
+Any free person who shall administer to, or cause to be taken, by a woman, any drug or other thing, or use any means, with intent to destroy her unborn child, or to produce abortion or miscarriage, and shall thereby de- stroy such child, or produce such abortion or miscar- riage, shall be confined in the penitentiary not less than one, nor more than five years. No person, by rea- son of any act mentioned in this section, shall be pun- ishable where such act is done in good faith, with the intention of saving the life of such woman or child.%”
+9 Act of Nov. 26, 1861, ch. 28, div. 4, § 42, 1861 Nev. Laws 63 (empha- sis added).
+91 W.V. Const, Art. XI, §8 (1862).
+8 Va. Code tit. 54, ch. 191, § 8 (1849) (emphasis added); see also W. Va.
+The Virginia law in force in 1863 stated:
+
+ Opinion of the Court
+26. Nebraska (1866):
+27. Maryland (1868):
+82 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+with intent thereby to destroy such child, unless the same shall be necessary to preserve the life of such mother, such person shall, in case the death of such child or mother be thereby produced, be deemed guilty of manslaughter.
+Every person who shall willfully and maliciously ad- minister or cause to be administered to or taken by any person, any poison or other noxious or destructive sub- stance or liquid, with the intention to cause the death of such person, and being thereof duly convicted, shall be punished by confinement in the penitentiary for a term not less than one year and not more than seven
+years. And every person who shall administer or cause to be administered or taken, any such poison, sub- stance or liquid, with the intention éo procure the mis- carriage of any woman then being with child, and shall thereof be duly convicted, shall be imprisoned for a term not exceeding three years in the penitentiary, and
+fined in a sum not exceeding one thousand dollars.
+And be it enacted, That any person who shall know- ingly advertise, print, publish, distribute or circulate, or knowingly cause to be advertised, printed, pub- lished, distributed or circulated, any pamphlet, printed paper, book, newspaper notice, advertisement or refer- ence containing words or language, giving or conveying any notice, hint or reference to any person, or to the
+98 Act of Oct. 19, 1864, Ore. Gen. Laws, Crim. Code, ch. 43, § 609 (1845- 1864)
+9% Act of Feb. 12, 1866, Neb. Rev. Stat. tit. 4, ch. 4, § 42 (1866) (empha- sis added); see also Neb. Gen. Stat. ch. 58, §§ 6, 39 (1873) (expanding criminal liability for abortions by other means, including instruments).
+
+ Cite as: U.S. (20_) 83
+Opinion of the Court
+name of any person real or fictitious, from whom; or to any place, house, shop or office, when any poison, drug, mixture, preparation, medicine or noxious thing, or any instrument or means whatever; for the purpose of pro- ducing abortion, or who shall knowingly sell, or cause to be sold any such poison, drug, mixture, preparation, medicine or noxious thing or instrument of any kind
+whatever; or where any advice, direction, information or knowledge may be obtained for the purpose of caus- ing the miscarriage or abortion of any woman pregnant with child, at any period of her pregnancy, or shall knowingly sell or cause to be sold any medicine, or who shall knowingly use or cause to be used any means whatsoever for that purpose, shall be punished by im- prisonment in the penitentiary for not less than three years, or bya fine of not less than five hundred nor more than one thousand dollars, or by both, in the dis-
+cretion of the Court; and in case of fine being imposed, one thereof shall be paid to the State of Maryland, and one-haltfo the School Fund of the city or county where the offence was committed; provided, however, that nothing herein contained shall be construed so as to prohibit the supervision and management by a regular practitioner of medicine of all cases of abortion occur- ring spontancously, either as the result of accident, constitutional debility, or any other natural cause, or the production of abortion by a regular practitioner of medicine who, after consulting with one or more re- spectable physicians, he shall be satisfied that thefoe- tus is dead, or that no other method will secure the
+safety of the mother.
+5 Act of Mar. 28, 1868, ch. 179, 1868 Md. Laws 314-316 (emphasis added).
+
+ 28. Florida (1868):
+Opinion of the Court
+Ch. 1, Sec. 11. Every person who shall administer to any woman pregnant with a quick child any medicine, drug, or substance whatever, or shall use or employ any instrument, or other means, with intent thereby to de- stroy such child, unless the same shall have been nec- essary to preserve the life of such mother, or shall have been advised by two physicians to be necessary for such purpose, shall, in case the death of such child or of such mother be thereby produced, be deemed guilty of man- slaughter in the second degree.
+29. Minnesota (1873):
+84 DOBBS v. JACKSON WOMEN'S HEALTH ORGANIZATION
+Ch. VII, Sec. 9. Whoever, with intent to procure mis- carriage of any woman, unlawfully administers to her, or advises, or prescribes for her, or causes to be taken by her, any poison, drug, medicine, or other noxious thing, or unlawfully uses any instrument or other means whatever with the like intent, or with like intent aids or assists therein, shall, if the woman does not die in consequence thereof, be punished by imprisonment in the State penittentiary not exceeding seven years, nor less than one year, or by fine not exceeding one
+thousand dollars.
+Sec. 1. That any person who shall administer to any woman with child, or prescribe for any such woman, or suggest to, or advise, or procure her to take any medi- cine, drug, substance or thing whatever, or who shall use or employ, or advise or suggest the use or employ- ment of any instrument or other means or force what-
+96 Act of Aug. 6, 1868, ch. 1637, no. 13, ch. 3, § 11, ch. 8, § 9, 1868 Fla. Laws 64, 97 (emphasis added).
+
+ 30. Arkansas (1875):
+Opinion of the Court
+Cite as: ___U.S.___ @0_) 85
+ever, with intent thereby to cause or procure the mis- carriage or abortion or premature labor of any such woman, unless the same shall have been necessary to preserve her life, or the life of such child, shall, in case the death of such child or of such woman results in whole or in part therefrom, be deemed guilty of a fel- ony, and upon conviction thereof, shall be punished by imprisonment in the state prison for a term not more than ten (10) years nor less than three (3) years.
+That it shall be unlawful for any one to administer or prescribe any medicine or drugs to any woman with child, with intent to produce an abortion, or premature delivery of any foetus before the period of quickening, or to produce or attempt to produce such abortion by any other means; and any person offending against the provision of this section, shall be fined in any sum not
+Sec. 2. Any person who shall administer to any woman with child, or prescribe, or procure, or provide for any such woman, or suggest to, or advise, or procure any such woman to take any medicine, drug, substance or thing whatever, or shall use or employ, or suggest, or advise the use or employment of any instrument or other means or force whatever, with intent thereby to
+cause or procure the miscarriage or abortion or prema- ture labor of any such woman, shall upon conviction thereof be punished by imprisonment in the state prison for a term not more than two years nor less than one year, or by fine not more than five thousand dollars nor less than five hundred dollars, or by such fine and imprisonment both, at the discretion of the court.%”
+97 Act of Mar. 10, 1873, ch. 9, §§1-2 1873 Minn. Gen. Laws 117-119 (emphasis added).
+
+ 31. Georgia (1876):
+Opinion of the Court
+Sec. 2. That every person who shall administer to any woman pregnant with a child, any medicine, drug, or substance whatever, or shall use or employ any instru- ment or other means, with intent thereby to destroy such child, unless the same shall have been necessary to preserve the life of such mother, or shall have been advised by two physicians to be necessary for such pur- pose, shall, in case the death of such child or mother be thereby produced, be declared guilty of an assault with intent to murder.
+86 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Sec. 3. That any person who shall wilfully administer to any pregnant woman any medicine, drug or sub- stance, or anything whatever, or shall employ any in- strument or means whatever, with intent thereby to procure the miscarriage or abortion of any such woman, unless the same shall have been necessary to preserve the life of such woman, or shall have been ad- vised by two physicians to be necessary for that pur-
+pose, shall, upon conviction, be punished asprescribed in section 4310 of the Revised Code of Georgia.
+98 Act of Nov. 8, 1875, no. 4, § 1, 1875 Ark. Acts 5-6 (emphasis added). 99 Act of Feb. 25, 1876, ch. 130, 1876 Ga. Laws 113 (emphasis added).
+exceeding one thousand ($1000) dollars, and impris- oned in the penitentiary not less than one (1) nor more than five (5) years; provided, that this section shall not apply to any abortion produced by any regular practic- ing physician, for the purpose of saving the mother's life.%8
+32. North Carolina (1881):
+Sec. 1. That every person who shall wilfully administer to any woman either pregnant or quick with child, or
+
+ 33. Delaware (1883):
+Opinion of the Court
+Cite as: ___ U.S. ___ (20__) 87
+prescribe for any such woman, or advise or procure any such woman to take any medicine, drug or substance whatever, or shall use or employ any instrument or other means with intent thereby to destroy said child, unless the same shall have been necessary to preserve the life of such mother, shall be guilty of a felony, and shall be imprisoned in the state penitentiary for not less than one year nor more than ten years, and be
+fined at the discretion of the court.
+Sec. 2. That every person who shall administer to any pregnant woman, or prescribe for any such woman, or advise and procure such woman to take any medicine, drug or any thing whatsoever, with intent thereby to
+procure the miscarriage of any such woman, or toin- jure or destroy such woman, or shall use any instru- ment or application for any of the above purposes, shall be guilty of a misdemeanor, and, on conviction, shall be imprisoned in the jail or state penitentiary for notless than one year or more than five years, and fined at the discretion of the court.
+100 N.C. Sess. Laws ch. 351, §§1-2 (1881) (emphasis added).
+Every person who, with the intent to procure the mis- carriage of any pregnant woman or women supposed by such person to be pregnant, unless the same be neces- sary to preserve her life, shall administer to her, ad-
+vise, or prescribe for her, or cause to be taken by her any poison, drug, medicine, or other noxious thing, or shall use any instrument or other means whatsoever, or shall aid, assist, or counsel any person so intending to procure a miscarriage, whether said miscarriage be accomplished or not, shall be guilty of a felony, and upon conviction thereof shall be fined not less than one
+hundred dollars nor more than five hundred dollars
+
+ Opinion of the Court
+84. Tennessee (1883):
+Sec, 1. That every person who shall administer to any woman pregnant with child, whether such child be quick or not, any medicine, drug or substance what- ever, or shall use or employ any instrument, or other means whatever with intent to destroy such child, and shall thereby destroy such child before its birth, unless the same shall have been done with a view to preserve the life of the mother, shall be punished by imprison- ment in the penitentiary not less than one nor more than five years.
+35. South Carolina (1883):
+88 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Sec. 2. Every person who shall administer any sub- stance with the intention to procure the miscarriage of a woman then being with child, or shall use or employ any instrument or other means with such intent, un- less the same shall have been done with a view to pre- serve the life of such mother, shall be punished by im- prisonment in the penitentiary not less than one nor more than three years.1
+Sec. 1. That any person who shall administer to any woman with child, or prescribe for any such woman, or suggest to or advise or procure her to take, anymedi- cine, substance, drug or thing whatever, or who shall use or employ, or advise the use or employment of, any
+instrument or other means of force whatever, with in- tent thereby to cause or procure the miscarriage or abortion or premature labor of any such woman, unless
+101 Del. Laws ch. 226, §2 (1883) (emphasis added).
+102 Act of Mar. 26, 1883, ch. 140, §§ 1-2, 1883 Tenn. Acts 188-189 (em- phasis added).
+and be imprisoned for a term not exceeding five years nor less than one year.11
+
+ 36. Kentucky (1910):
+Opinion of the Court
+Cite as: ___ U.S. (20_) 89
+the same shall have been necessary to preserve her life, or the life of such child, shall, in case the death of such child or of such woman results in whole or in part there- from, be deemed guilty of a felony, and, upon conviction thereof, shall be punished by imprisonment in the Pen- itentiary for a term not more than twenty years nor less than five years.
+Sec. 2. That any person who shall administer to any woman with child, or prescribe or procure or provide for any such woman, or advise or procure any such woman to take, any medicine, drug, substance or thing whatever, or shall use or employ or advise the use or employment of, any instrument or other means of force whatever, with intent thereby to cause or procure the miscarriage or abortion or premature labor of any such woman, shall, upon conviction thereof, be punished by
+imprisonment in the Penitentiary for a term not more than five years, or by fine not more than five thousand dollars, or by such fine and imprisonment both, at the discretion of the Court; but no conviction shall be had under the provisions of Section 1 or 2 of this Act upon the uncorroborated evidence of such woman.1%
+See. 1. It shall be unlawful for any person to prescribe or administer fo any pregnant woman, or to any woman whom he has reason to believe pregnant, at any time during the period of gestation, any drug, medicine or substance, whatsoever, with the intent thereby to pro- cure the miscarriage of such woman, or with like in- tent, to use any instrument or means whatsoever, un- less such miscarriage is necessary to preserve her life; and any person so offending, shall be punished bya fine
+103 Act of Dec. 24, 1883, no. 254, 1883 S.C. Acts 547-548 (emphasis added).
+
+ Opinionofthe Court
+90
+DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+Sec. 3. If, by reason of the commission of any of the acts described in Section 1 hereof, the woman to whom such drug or substance has been administered, or upon whom such instrument has been used, shall die, the person offending shall be punished as now prescribed by law, for the offense of murder or manslaughter, as
+the facts may justify.
+Sec. 4. The consent of the woman to the performance of the operation or administering of the medicines or sub- stances, referred to, shall be no defense, and she shall be a competent witness in any prosecution under this act, and for that purpose she shall not be considered an accomplice.
+of not less than five hundred nor more than one thou- sand dollars, and imprisoned in the State prison for not less than one nor more than ten years.
+104 Ky. Acts ch. 58, §§ 1-4 (1910) (emphasis added).
+Sec. 2. If by reason of any of the acts described in Sec- tion 1 hereof, the miscarriage of such woman is pro- cured, and she does miscarry, causing the death of the unborn child, whether before or after quickening time, the person so offending shall be guilty of a felony, and confined in the penitentiary for not less than two, nor more than twenty-one years.
+37. Mississippi (1952):
+1. Whoever, by means of any instrument, medicine,
+drug, or other means whatever shall willfully
+and with child to abort or miscarry, or attempts to procure or produce an
+knowingly cause any woman pregnant
+abortion or miscarriage, unless the same were done as necessary for the preservation of the mother’s life, shall be imprisoned in the state penitentiary no less than one (1) year, nor more than ten (10) years; or if the deathof
+
+ Cite as: ___U.S. (20_) 91 Opinion of the Court
+the mother results therefrom, the person procuring, causing, or attempting to procure or cause the abortion or miscarriage shall be guilty of murder.
+2, No act prohibited in section 1 hereof shall be consid- ered as necessary for the preservation of the mother's life unless upon the prior advice, in writing, of two rep- utable licenses physicians.
+3. The license of any physician or nurse shall be auto- matically revoked upon conviction under the provisions of this act.15
+105 Miss. Laws, 1952, ch. 260, §§1-3 (codified at Miss. Code Ann. §2223 (1956)) (emphasis added).
+
+ Opinion of the Court
+APPENDIX B
+This appendix contains statutes criminalizing abortion at all stages in each of the territories that became States and in the District of Columbia. The statutes appear in chron- ological order of enactment.
+1. Hawaii (1850):
+2. Washington (1854):
+92
+DOBBS v. JACKSON WOMEN'S HEALTH ORGANIZATION
+Sec. 1. Whoever maliciously, without lawful justifica- tion, administers, or causes or procures to be adminis- tered any poison or noxious thing to a woman then with child, in order to produce her miscarriage, or mali- ciously uses any instrument or other means with like intent, shall, if such woman be then quick with child, be punished by fine not exceeding one thousand dollars and imprisonment at hard labor not more than five years. And if she be then not quick with child, shall be punished bya fine not exceeding five hundred dollars, and imprisonment at hard labor not more than two
+years.
+Sec. 2. Where means of causing abortion are used for the purpose of saving the life of the woman, the surgeon or other person using such means is lawfully justi- fied.106
+Sec. 37. Every person who shall administer to any woman pregnant with a quick child, any medicine, drug, or substance whatever, or shall use or employ any instrument, or other means, with intent thereby to de- stroy such child, unless the same shall have been nec- essary to preserve the life of such mother, shall, in case the death of such child or of such mother be thereby
+106 Haw. Pen. Code §§1-2 (1850) (emphasis added). Hawaii became a State in 1959. See 73 Stat. c74-c75.
+
+ 8. Colorado (1861):
+Cite as: U.S.___ @20_) 93 Opinion of the Court
+produced, on conviction thereof, be imprisoned in the penitentiary not more than twenty years, nor less than one year.
+Sec. 38. Every person who shall administer to any preg- nant woman, or to any woman who he supposes to be
+pregnant, any medicine, drug, or substance whatever, or shall use or employ any instrument, or other means, thereby to procure the miscarriage of such woman, un- Jess the same is necessary to preserve her life, shall on conviction thereof, be imprisoned in the penitentiary not more than five years, nor less than one year, or be imprisoned in the county jail not more than twelve months, nor less than one month, and be fined in any sum not exceeding one thousand dollars.1"
+[Elvery person who shall administer substance or lig- uid, or who shall use or cause to be used any instru- ment, of whatsoever kind, with the intention to procure the miscarriage of any woman then being with child, and shall thereof be duly convicted, shall be imprisoned for a term not exceeding three years, and fined in a sum not exceeding one thousand dollars; and if any woman, by reason of such treatment, shall die, the person or
+persons administering, or causing to be administered, such poison, substance or liquid, or using or causing to be used, any instrument, as aforesaid, shall be deemed guilty of manslaughter, and if convicted, be punished accordingly.10
+107 Wash. (Terr.) Stat. ch. II, §§37-38, at 81. (1854) (emphasis added). Washington became a State in 1889. See 26 Stat. 1552-1553.
+108 1861 Colo. (Terr.) Laws div. 4, §42, at 296-297. Colorado became a State in 1876. See 19 Stat. 665-666.
+
+ 4, Idaho (1864):
+5. Montana (1864):
+Opinion of the Court
+1890. See 26 Stat. 215-219.
+110 1864 Mont. (Terr.) Laws, Crim. Practice Act ch. IV, §41, at 184.
+94 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+[E]very person who shall administer or cause to be ad- ministered, or taken, any medicinal substance, or shall use or cause to be used, any instruments whatever, with the intention to procure the miscarriage of any woman then being with child, and shall be thereof duly convicted, shall be punished by imprisonment in the territorial prison for a term not less than two years, nor more than five years. Provided, That no physician shall be effected by the last clause of this section who
+in the discharge of his professional duties, deems it nec- essary to produce the miscarriage of any woman in or- der to save her life.1°°
+(E]very person who shall administer, or cause to be ad- ministered, or taken, any medicinal substance, or shall use, or cause to be used, any instruments whatever, with the intention to produce the miscarriage of any woman then being with child, and shall be thereof duly convicted, shall be punished by imprisonment in the Territorial prison for a term not less than two years nor more than five years. Provided, That no physician shall be affected by the last clause of this section, who in the discharge of his professional duties deems it necessary to produce the miscarriage of any woman in order to save her life. Provided, That no physician shall be ef- fected by the last clause of this section who in the dis- charge of his professional duties, deems it necessary to
+produce the miscarriage of any woman in order to save her life,110
+109 1863-1864 Idaho (Terr.) Laws ch. IV, §42. Tdaho became a State in Montana becamea State in 1889. See 26 Stat. 1551-1552.
+
+ Cite as: ___ U.S. (20_) 95 Opinion of the Court
+6. Arizona (1865):
+7. Wyoming (1869):
+[A]ny person who shall administer, or cause to be ad- ministered, or taken, any such poison, substance or liq- uid, or who shall use, or cause to be used, any instru- ment of whatsoever kind, with the intention to procure the miscarriage of any woman then being with child, and shall thereof be duly convicted, shall be imprisoned for a term not exceeding three years, in the peniten- tiary, and fined in a sum not exceeding one thousand dollars; and if any woman by reason of such treatment shall die, the person, or persons, administering, or causing to be administered such poison, substance, or
+liquid, or using or causing to be used, any instrument, as aforesaid, shall be deemed guilty of manslaughter, and if convicted, be punished by imprisonment for a term not less than three years in the penitentiary, and fined in a sum not exceeding one thousand dollars, un- less it appear that such miscarriage was procured or
+[E]very person who shall administer or cause to be ad- ministered or taken, any medicinal substances, or shall use or cause to be used any instruments whatever, with the intention to produce the miscarriage of any woman then being with child, and shall be thereof duly con- victed, shall be punished by imprisonment in the Ter- ritorial prison for a term not less than two years nor more than five years: Provided, that no physician shall be affected by the last clause of this section, who in the discharge of his professional duties, deems it necessary to produce the miscarriage of any woman in order to
+save her life.!!!
+11 Ayizona-Howell (Terr.) Code, ch. 10, §45 (1865). Arizona became a State in 1912. See 37 Stat. 1728-1729.
+
+ 8. Utah (1876):
+Opinion of the Court
+Every person who provides, supplies, or administers to any pregnant woman, or procures any such woman to take any medicine, drug, or substance, or uses or em- ploys any instrument or other means whatever, with intent thereby to procure the miscarriage of such woman, unless the same is necessary to preserve her life, is punishable by imprisonment in the penitentiary not less than two nor more than ten years.!8
+9. North Dakota (1877):
+96 DOBBS v. JACKSON WOMEN’S HEALTH ORGANIZATION
+attempted by, or under advice of a physician or sur- geon, with intent to save the life of such woman, or to prevent serious and permanent bodily injury to her.'!
+Every person who administers to any pregnant woman, or who prescribes for any such woman, or advises or procures any such woman to take any medicine, drug or substance, or uses or employs any instrument, or other means whatever with intent thereby to procure the miscarriage of such woman, unless the same is nec- essary to preserve her life, is punishable by imprison- ment in the territorial prison not exceeding three
+years, or in a county jail not exceeding oneyear.14 10. South Dakota (1877): Same as North Dakota.
+112 1869 Wyo. (Terr.) Laws ch. 3, §25, at 104 (emphasis added). Wyo- ming became a State in 1889. See 26 Stat. 222-226.
+13 Utah Comp. Laws tit. IX, ch. III, §142 (1876) (emphasis added). Utah becamea State in 1896. See 29 Stat. 876-877.
+114 Dak. Pen. Code § 337, at 458-459 (1877) (codified at N.D. Rev. Code §7177, at 1271 (1895), and S.D. Ann. Stat. §7797 (1899). North and South Dakota became States in 1889. See 26 Stat. 1548-1551.
+
+ Opinion of the Court 11. Oklahoma (1890):
+12. Alaska (1899):
+13. New Mexico (1919):
+Cite as: ___ U. S.__ (20__.) 97
+Every person who administers to any pregnant woman, or who prescribes for any such woman, or advises or procures any such woman to take any medicine, drug or substance, or uses or employs any instrument, or other means whatever, with intent thereby to procure the miscarriage of such woman, unless the same is nec-
+essary to preserve her life, is punishable by imprison- ment in the Territorial prison not exceeding three years, or in a county jail not exceeding one year."
+That if any person shall administer to any woman preg- nant with a child any medicine, drug, or substance whatever, or shall use any instrument or other means, with intent thereby to destroy such child, unless the same shall be necessary to preserve the life of such mother, such person shall, in case the death of such child or mother be thereby produced, be deemed guilty of manslaughter, and shall be punished accordingly.
+Sec. 1. Any person who shall administer to any preg- nant woman any medicine, drug or substance what- ever, or attempt by operation or any other method or means to produce an abortion or miscarriage upon such woman, shall be guilty of a felony, and, upon conviction thereof, shall be fined not more than two thousand ($2,000.00) Dollars, nor less than five hundred ($500.00) Dollars, or imprisoned in the penitentiary for a period of not less than one nor more than five years,
+15 1890 Okla. Stat. §2187 (emphasis added). Oklahoma became a
+State in 1907. See 35 Stat. 2160-2161.
+116 1899 Alaska Sess. Laws ch. 1, §8 (emphasis added). Alaska became
+a State in 1959. See 73 Stat. c16.
+
+ ee RE District of Columbia (1901):
+Opinion of the Court
+98 DOBBS v. JACKSON WOMEN'S HEALTH ORGANIZATION
+Sec. 3. For the purpose of the act, the term “pregnancy” is defined as that condition of a woman from the date of conception to the birth of her child."
+UT Act of Feb. 21, 1919, Laws of N. M., ch. 4, §§1-3 (emphasis added). New Mexico had become a State in 1912. See 37 Stat. 1723-1724.
+18 31 Stat. 1322. §809 (1901) (emphasis added).
+or by both such fine and imprisonment in the discretion of the court trying the case.
+Sec. 2. Any person committing such act or acts men- tioned in section one hereof which shall culminate in the death of the woman shall be deemed guilty of mur- der in the second degree; Provided, however, an abor- tion may be produced when two physicians licensed to practice in the State of New Mexico, in consultation, deem it necessary to preserve the life of the woman, or
+to prevent serious and permanent bodily injury.
+Whoever, with intent to procure the miscarriage of any woman, prescribes or administers to her any medicine, drug, or substance whatever, or with like intent uses any instrument or means, unless when necessary to preserve her life or health and under the direction of a competent licensed practitioner of medicine, shall be imprisoned for not more than five years; or if the woman or her child dies in consequence of such act, by imprisonment for not less than three nor more than
+twenty years.1!8
